@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f808b91afae4c064abc8536c97b39608
+timeCreated: 1468303483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BattleBG_0
+    21300002: BattleBG_1
+    21300004: BattleBG_2
+    21300006: BattleBG_3
+    21300008: BattleBG_4
+    21300010: BattleBG_5
+    21300012: BattleBG_6
+    21300014: BattleBG_7
+    21300016: BattleBG_8
+    21300018: BattleBG_9
+    21300020: BattleBG_10
+    21300022: BattleBG_11
+    21300024: BattleBG_12
+    21300026: BattleBG_13
+    21300028: BattleBG_14
+    21300030: BattleBG_15
+    21300032: BattleBG_16
+    21300034: BattleBG_17
+    21300036: BattleBG_18
+    21300038: BattleBG_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BattleBG_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1261
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1261
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1261
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1051
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1051
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1051
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 841
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 841
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 841
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 631
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 631
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 421
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 421
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 211
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 211
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    - name: BattleBG_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1
+        width: 272
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136, y: 104}
+        - {x: -136, y: -104}
+        - {x: 136, y: -104}
+        - {x: 136, y: 104}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

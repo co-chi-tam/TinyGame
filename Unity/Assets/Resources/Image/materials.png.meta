@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: b9ed4ff54248af045a39db78d9cd4b1f
+timeCreated: 1473906693
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: materials_0
+    21300002: materials_1
+    21300004: materials_2
+    21300006: materials_3
+    21300008: materials_4
+    21300010: materials_5
+    21300012: materials_6
+    21300014: materials_7
+    21300016: materials_8
+    21300018: materials_9
+    21300020: materials_10
+    21300022: materials_11
+    21300024: materials_12
+    21300026: materials_13
+    21300028: materials_14
+    21300030: materials_15
+    21300032: materials_16
+    21300034: materials_17
+    21300036: materials_18
+    21300038: materials_19
+    21300040: materials_20
+    21300042: materials_21
+    21300044: materials_22
+    21300046: materials_23
+    21300048: materials_24
+    21300050: materials_25
+    21300052: materials_26
+    21300054: materials_27
+    21300056: materials_28
+    21300058: materials_29
+    21300060: materials_30
+    21300062: materials_31
+    21300064: materials_32
+    21300066: materials_33
+    21300068: materials_34
+    21300070: materials_35
+    21300072: materials_36
+    21300074: materials_37
+    21300076: materials_38
+    21300078: materials_39
+    21300080: materials_40
+    21300082: materials_41
+    21300084: materials_42
+    21300086: materials_43
+    21300088: materials_44
+    21300090: materials_45
+    21300092: materials_46
+    21300094: materials_47
+    21300096: materials_48
+    21300098: materials_49
+    21300100: materials_50
+    21300102: materials_51
+    21300104: materials_52
+    21300106: materials_53
+    21300108: materials_54
+    21300110: materials_55
+    21300112: materials_56
+    21300114: materials_57
+    21300116: materials_58
+    21300118: materials_59
+    21300120: materials_60
+    21300122: materials_61
+    21300124: materials_62
+    21300126: materials_63
+    21300128: materials_64
+    21300130: materials_65
+    21300132: materials_66
+    21300134: materials_67
+    21300136: materials_68
+    21300138: materials_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: materials_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 44.5}
+        - {x: -39.5, y: 18.5}
+        - {x: -51.5, y: -3.5}
+        - {x: -51.5, y: -32.5}
+        - {x: -44.5, y: -36.5}
+        - {x: 49.5, y: -36.5}
+        - {x: 49.5, y: 19.5}
+        - {x: 46.5, y: 44.5}
+    - name: materials_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -27.5}
+        - {x: -45.5, y: -42.5}
+        - {x: -42.5, y: -43.5}
+        - {x: 42.5, y: -43.5}
+        - {x: 57.5, y: -33.5}
+        - {x: 57.5, y: 50.5}
+        - {x: 56.5, y: 53.5}
+        - {x: -30.5, y: 53.5}
+        - {x: -54.5, y: 12.5}
+    - name: materials_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 49.5}
+        - {x: -49.5, y: 29.5}
+        - {x: -49.5, y: -17.5}
+        - {x: -24.5, y: -29.5}
+        - {x: 18.5, y: -38.5}
+        - {x: 55.5, y: -38.5}
+        - {x: 55.5, y: 16.5}
+        - {x: -1.5, y: 49.5}
+    - name: materials_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 55.5}
+        - {x: -43.5, y: 12.5}
+        - {x: -43.5, y: -19.5}
+        - {x: -16.5, y: -50.5}
+        - {x: 13.5, y: -50.5}
+        - {x: 50.5, y: 5.5}
+        - {x: 50.5, y: 55.5}
+    - name: materials_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 58.5}
+        - {x: -30.5, y: 46.5}
+        - {x: -53.5, y: 6.5}
+        - {x: -53.5, y: -50.5}
+        - {x: -13.5, y: -50.5}
+        - {x: 59.5, y: -12.5}
+        - {x: 59.5, y: 58.5}
+    - name: materials_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 58.5}
+        - {x: -22.5, y: 58.5}
+        - {x: -49.5, y: 34.5}
+        - {x: -49.5, y: -52.5}
+        - {x: -45.5, y: -53.5}
+        - {x: 48.5, y: -53.5}
+        - {x: 59.5, y: -13.5}
+        - {x: 59.5, y: 49.5}
+        - {x: 50.5, y: 55.5}
+      - - {x: -59.5, y: 38.5}
+        - {x: -59.5, y: 8.5}
+        - {x: -55.5, y: 8.5}
+        - {x: -55.5, y: 38.5}
+    - name: materials_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 58.5}
+        - {x: -51.5, y: 27.5}
+        - {x: -51.5, y: -46.5}
+        - {x: -48.5, y: -48.5}
+        - {x: 59.5, y: -48.5}
+        - {x: 59.5, y: 35.5}
+        - {x: 37.5, y: 58.5}
+    - name: materials_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 936
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -35.5}
+        - {x: -27.5, y: -47.5}
+        - {x: 45.5, y: -47.5}
+        - {x: 59.5, y: -31.5}
+        - {x: 59.5, y: 33.5}
+        - {x: 51.5, y: 47.5}
+        - {x: 35.5, y: 51.5}
+        - {x: -9.5, y: 51.5}
+        - {x: -42.5, y: 12.5}
+      - - {x: -59.5, y: 17.5}
+        - {x: -59.5, y: -37.5}
+        - {x: -56.5, y: -36.5}
+        - {x: -53.5, y: -26.5}
+        - {x: -53.5, y: 11.5}
+        - {x: -55.5, y: 17.5}
+    - name: materials_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 52.5}
+        - {x: -32.5, y: 47.5}
+        - {x: -50.5, y: 37.5}
+        - {x: -50.5, y: -25.5}
+        - {x: -38.5, y: -49.5}
+        - {x: 19.5, y: -49.5}
+        - {x: 52.5, y: -26.5}
+        - {x: 52.5, y: 20.5}
+        - {x: 22.5, y: 52.5}
+    - name: materials_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 44.5}
+        - {x: -50.5, y: 21.5}
+        - {x: -50.5, y: -40.5}
+        - {x: -44.5, y: -41.5}
+        - {x: 50.5, y: -41.5}
+        - {x: 54.5, y: -37.5}
+        - {x: 54.5, y: 41.5}
+        - {x: 41.5, y: 44.5}
+    - name: materials_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 57.5}
+        - {x: -51.5, y: 38.5}
+        - {x: -51.5, y: -36.5}
+        - {x: -13.5, y: -51.5}
+        - {x: 43.5, y: -51.5}
+        - {x: 57.5, y: -28.5}
+        - {x: 57.5, y: 20.5}
+        - {x: 35.5, y: 57.5}
+    - name: materials_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 44.5}
+        - {x: -49.5, y: 41.5}
+        - {x: -49.5, y: -39.5}
+        - {x: 56.5, y: -39.5}
+        - {x: 56.5, y: 42.5}
+        - {x: 34.5, y: 44.5}
+    - name: materials_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 47.5}
+        - {x: -51.5, y: 16.5}
+        - {x: -51.5, y: -45.5}
+        - {x: 48.5, y: -45.5}
+        - {x: 59.5, y: -39.5}
+        - {x: 59.5, y: 4.5}
+        - {x: 37.5, y: 47.5}
+    - name: materials_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 55.5}
+        - {x: -18.5, y: 52.5}
+        - {x: -28.5, y: 24.5}
+        - {x: -28.5, y: -54.5}
+        - {x: 37.5, y: -54.5}
+        - {x: 37.5, y: 48.5}
+        - {x: 23.5, y: 55.5}
+    - name: materials_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 50.5}
+        - {x: -43.5, y: 46.5}
+        - {x: -43.5, y: 16.5}
+        - {x: -38.5, y: -3.5}
+        - {x: -32.5, y: -8.5}
+        - {x: 28.5, y: -53.5}
+        - {x: 58.5, y: -53.5}
+        - {x: 58.5, y: -26.5}
+        - {x: 24.5, y: 35.5}
+        - {x: -5.5, y: 50.5}
+    - name: materials_15
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 819
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 57.5}
+        - {x: -44.5, y: 20.5}
+        - {x: -44.5, y: -43.5}
+        - {x: -41.5, y: -53.5}
+        - {x: 10.5, y: -53.5}
+        - {x: 58.5, y: -30.5}
+        - {x: 58.5, y: 37.5}
+        - {x: 33.5, y: 57.5}
+    - name: materials_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 53.5}
+        - {x: -55.5, y: 37.5}
+        - {x: -55.5, y: -4.5}
+        - {x: -5.5, y: -54.5}
+        - {x: 53.5, y: -54.5}
+        - {x: 53.5, y: 14.5}
+        - {x: 52.5, y: 23.5}
+        - {x: 3.5, y: 53.5}
+    - name: materials_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 45.5}
+        - {x: -51.5, y: 14.5}
+        - {x: -51.5, y: -28.5}
+        - {x: -38.5, y: -37.5}
+        - {x: -6.5, y: -42.5}
+        - {x: 48.5, y: -42.5}
+        - {x: 54.5, y: -39.5}
+        - {x: 54.5, y: 30.5}
+        - {x: 47.5, y: 45.5}
+    - name: materials_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 41.5}
+        - {x: -30.5, y: 41.5}
+        - {x: -45.5, y: 27.5}
+        - {x: -45.5, y: -9.5}
+        - {x: -36.5, y: -51.5}
+        - {x: -35.5, y: -52.5}
+        - {x: 1.5, y: -52.5}
+        - {x: 51.5, y: -25.5}
+        - {x: 51.5, y: 31.5}
+    - name: materials_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 53.5}
+        - {x: -50.5, y: 31.5}
+        - {x: -50.5, y: -25.5}
+        - {x: -33.5, y: -58.5}
+        - {x: 37.5, y: -58.5}
+        - {x: 52.5, y: -51.5}
+        - {x: 52.5, y: 30.5}
+        - {x: 51.5, y: 36.5}
+        - {x: 31.5, y: 53.5}
+    - name: materials_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 49.5}
+        - {x: -52.5, y: 31.5}
+        - {x: -52.5, y: -37.5}
+        - {x: -26.5, y: -51.5}
+        - {x: 36.5, y: -51.5}
+        - {x: 59.5, y: -30.5}
+        - {x: 59.5, y: 39.5}
+        - {x: 56.5, y: 49.5}
+    - name: materials_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 49.5}
+        - {x: -47.5, y: 43.5}
+        - {x: -47.5, y: -18.5}
+        - {x: -21.5, y: -55.5}
+        - {x: 36.5, y: -55.5}
+        - {x: 49.5, y: -51.5}
+        - {x: 59.5, y: -11.5}
+        - {x: 59.5, y: 45.5}
+        - {x: 53.5, y: 49.5}
+    - name: materials_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 7.5}
+        - {x: 27.5, y: 45.5}
+        - {x: 22.5, y: 52.5}
+        - {x: 9.5, y: 52.5}
+        - {x: 1.5, y: 44.5}
+        - {x: -36.5, y: 29.5}
+        - {x: -45.5, y: 20.5}
+        - {x: -45.5, y: -33.5}
+        - {x: -20.5, y: -55.5}
+        - {x: 15.5, y: -55.5}
+        - {x: 47.5, y: -45.5}
+        - {x: 59.5, y: -39.5}
+        - {x: 59.5, y: -18.5}
+        - {x: 56.5, y: -13.5}
+    - name: materials_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 702
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 52.5}
+        - {x: -38.5, y: 35.5}
+        - {x: -38.5, y: -49.5}
+        - {x: -32.5, y: -55.5}
+        - {x: 37.5, y: -55.5}
+        - {x: 51.5, y: -49.5}
+        - {x: 51.5, y: 27.5}
+        - {x: 28.5, y: 52.5}
+    - name: materials_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 56.5}
+        - {x: -59.5, y: 38.5}
+        - {x: -59.5, y: -56.5}
+        - {x: -51.5, y: -58.5}
+        - {x: 59.5, y: -58.5}
+        - {x: 59.5, y: 34.5}
+        - {x: 39.5, y: 56.5}
+    - name: materials_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 49.5}
+        - {x: -53.5, y: 28.5}
+        - {x: -53.5, y: -19.5}
+        - {x: -31.5, y: -56.5}
+        - {x: -24.5, y: -58.5}
+        - {x: 47.5, y: -58.5}
+        - {x: 50.5, y: -43.5}
+        - {x: 50.5, y: 49.5}
+    - name: materials_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 49.5}
+        - {x: -49.5, y: 27.5}
+        - {x: -49.5, y: -52.5}
+        - {x: -40.5, y: -58.5}
+        - {x: 36.5, y: -58.5}
+        - {x: 53.5, y: -41.5}
+        - {x: 53.5, y: 49.5}
+    - name: materials_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 50.5}
+        - {x: -51.5, y: 32.5}
+        - {x: -51.5, y: -53.5}
+        - {x: 59.5, y: -53.5}
+        - {x: 59.5, y: 31.5}
+        - {x: 43.5, y: 50.5}
+    - name: materials_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 48.5}
+        - {x: -47.5, y: 12.5}
+        - {x: -47.5, y: -13.5}
+        - {x: -6.5, y: -57.5}
+        - {x: 28.5, y: -57.5}
+        - {x: 41.5, y: -52.5}
+        - {x: 54.5, y: -11.5}
+        - {x: 54.5, y: 48.5}
+    - name: materials_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 48.5}
+        - {x: 3.5, y: 48.5}
+        - {x: -31.5, y: 40.5}
+        - {x: -41.5, y: 2.5}
+        - {x: -41.5, y: -58.5}
+        - {x: -23.5, y: -58.5}
+        - {x: -4.5, y: -48.5}
+        - {x: 50.5, y: 4.5}
+        - {x: 56.5, y: 26.5}
+    - name: materials_30
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 56.5}
+        - {x: -51.5, y: 49.5}
+        - {x: -54.5, y: 43.5}
+        - {x: -54.5, y: -48.5}
+        - {x: -47.5, y: -58.5}
+        - {x: 57.5, y: -58.5}
+        - {x: 59.5, y: -57.5}
+        - {x: 59.5, y: 39.5}
+        - {x: 39.5, y: 56.5}
+    - name: materials_31
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 585
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 41.5}
+        - {x: -31.5, y: 37.5}
+        - {x: -41.5, y: 7.5}
+        - {x: -41.5, y: -42.5}
+        - {x: -13.5, y: -56.5}
+        - {x: -9.5, y: -57.5}
+        - {x: 33.5, y: -57.5}
+        - {x: 51.5, y: -51.5}
+        - {x: 56.5, y: -34.5}
+        - {x: 56.5, y: 17.5}
+        - {x: 43.5, y: 41.5}
+      - - {x: -59.5, y: -5.5}
+        - {x: -59.5, y: -44.5}
+        - {x: -55.5, y: -44.5}
+        - {x: -53.5, y: -35.5}
+        - {x: -53.5, y: -12.5}
+        - {x: -56.5, y: -5.5}
+      - - {x: -59.5, y: 35.5}
+        - {x: -59.5, y: -3.5}
+        - {x: -56.5, y: -2.5}
+        - {x: -53.5, y: 3.5}
+        - {x: -53.5, y: 28.5}
+        - {x: -55.5, y: 35.5}
+    - name: materials_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 10.5}
+        - {x: 46.5, y: 20.5}
+        - {x: 43.5, y: 24.5}
+        - {x: 22.5, y: 45.5}
+        - {x: -27.5, y: 45.5}
+        - {x: -53.5, y: 33.5}
+        - {x: -53.5, y: -6.5}
+        - {x: -24.5, y: -43.5}
+        - {x: 48.5, y: -43.5}
+        - {x: 54.5, y: -32.5}
+        - {x: 54.5, y: -5.5}
+      - - {x: -21.5, y: 58.5}
+        - {x: -21.5, y: 53.5}
+        - {x: 30.5, y: 53.5}
+        - {x: 30.5, y: 58.5}
+    - name: materials_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 54.5}
+        - {x: -52.5, y: 54.5}
+        - {x: -52.5, y: 2.5}
+        - {x: -25.5, y: -56.5}
+        - {x: 36.5, y: -56.5}
+        - {x: 39.5, y: -55.5}
+        - {x: 56.5, y: -44.5}
+        - {x: 56.5, y: 17.5}
+        - {x: 44.5, y: 50.5}
+    - name: materials_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 8.5}
+        - {x: -49.5, y: -47.5}
+        - {x: 28.5, y: -47.5}
+        - {x: 54.5, y: -38.5}
+        - {x: 54.5, y: 23.5}
+        - {x: 46.5, y: 47.5}
+        - {x: -8.5, y: 47.5}
+        - {x: -39.5, y: 22.5}
+    - name: materials_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 53.5}
+        - {x: -49.5, y: -17.5}
+        - {x: -33.5, y: -48.5}
+        - {x: -15.5, y: -52.5}
+        - {x: 45.5, y: -52.5}
+        - {x: 55.5, y: -24.5}
+        - {x: 55.5, y: 33.5}
+        - {x: 49.5, y: 53.5}
+    - name: materials_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 47.5}
+        - {x: -49.5, y: 35.5}
+        - {x: -49.5, y: -45.5}
+        - {x: -38.5, y: -48.5}
+        - {x: 48.5, y: -48.5}
+        - {x: 59.5, y: -35.5}
+        - {x: 59.5, y: 46.5}
+        - {x: 58.5, y: 47.5}
+    - name: materials_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 56.5}
+        - {x: -51.5, y: 53.5}
+        - {x: -51.5, y: -44.5}
+        - {x: -20.5, y: -55.5}
+        - {x: 32.5, y: -55.5}
+        - {x: 59.5, y: -36.5}
+        - {x: 59.5, y: 35.5}
+        - {x: 38.5, y: 56.5}
+    - name: materials_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 46.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -40.5}
+        - {x: -40.5, y: -43.5}
+        - {x: 46.5, y: -43.5}
+        - {x: 58.5, y: -37.5}
+        - {x: 58.5, y: 42.5}
+        - {x: 48.5, y: 46.5}
+      - - {x: -15.5, y: 51.5}
+        - {x: 28.5, y: 51.5}
+        - {x: 28.5, y: 58.5}
+        - {x: -17.5, y: 58.5}
+        - {x: -17.5, y: 57.5}
+    - name: materials_39
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 468
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 58.5}
+        - {x: -45.5, y: 37.5}
+        - {x: -45.5, y: -40.5}
+        - {x: -5.5, y: -56.5}
+        - {x: 46.5, y: -56.5}
+        - {x: 59.5, y: -24.5}
+        - {x: 59.5, y: 46.5}
+        - {x: 43.5, y: 58.5}
+    - name: materials_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 50.5}
+        - {x: -45.5, y: -16.5}
+        - {x: -42.5, y: -36.5}
+        - {x: -28.5, y: -57.5}
+        - {x: 7.5, y: -57.5}
+        - {x: 13.5, y: -56.5}
+        - {x: 53.5, y: -28.5}
+        - {x: 53.5, y: 12.5}
+        - {x: 16.5, y: 50.5}
+    - name: materials_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 53.5}
+        - {x: -52.5, y: 22.5}
+        - {x: -52.5, y: -17.5}
+        - {x: -12.5, y: -58.5}
+        - {x: 34.5, y: -58.5}
+        - {x: 52.5, y: -30.5}
+        - {x: 52.5, y: 20.5}
+        - {x: 48.5, y: 53.5}
+    - name: materials_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 48.5}
+        - {x: -43.5, y: 31.5}
+        - {x: -46.5, y: 25.5}
+        - {x: -46.5, y: -45.5}
+        - {x: -43.5, y: -52.5}
+        - {x: 29.5, y: -52.5}
+        - {x: 38.5, y: -51.5}
+        - {x: 51.5, y: -40.5}
+        - {x: 51.5, y: 44.5}
+        - {x: 49.5, y: 48.5}
+    - name: materials_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 48.5}
+        - {x: -49.5, y: 9.5}
+        - {x: -49.5, y: -52.5}
+        - {x: -37.5, y: -57.5}
+        - {x: 13.5, y: -57.5}
+        - {x: 57.5, y: -29.5}
+        - {x: 57.5, y: 39.5}
+        - {x: 55.5, y: 48.5}
+    - name: materials_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 44.5}
+        - {x: -34.5, y: 32.5}
+        - {x: -34.5, y: -36.5}
+        - {x: -17.5, y: -49.5}
+        - {x: 35.5, y: -49.5}
+        - {x: 44.5, y: -38.5}
+        - {x: 44.5, y: 30.5}
+        - {x: 35.5, y: 44.5}
+    - name: materials_45
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 37.5}
+        - {x: -42.5, y: 34.5}
+        - {x: -42.5, y: 17.5}
+        - {x: -34.5, y: 12.5}
+        - {x: -37.5, y: -25.5}
+        - {x: 4.5, y: -56.5}
+        - {x: 33.5, y: -56.5}
+        - {x: 59.5, y: -16.5}
+        - {x: 59.5, y: 37.5}
+    - name: materials_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 29.5}
+        - {x: 14.5, y: 51.5}
+        - {x: -14.5, y: 51.5}
+        - {x: -34.5, y: 30.5}
+        - {x: -34.5, y: -22.5}
+        - {x: -28.5, y: -52.5}
+        - {x: -14.5, y: -58.5}
+        - {x: 21.5, y: -58.5}
+        - {x: 55.5, y: -36.5}
+        - {x: 55.5, y: -9.5}
+    - name: materials_47
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 351
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 46.5}
+        - {x: -39.5, y: 12.5}
+        - {x: -20.5, y: -33.5}
+        - {x: 8.5, y: -53.5}
+        - {x: 49.5, y: -53.5}
+        - {x: 57.5, y: -50.5}
+        - {x: 57.5, y: -2.5}
+        - {x: -16.5, y: 46.5}
+    - name: materials_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 27.5}
+        - {x: 42.5, y: 39.5}
+        - {x: -54.5, y: 39.5}
+        - {x: -54.5, y: -43.5}
+        - {x: -51.5, y: -51.5}
+        - {x: 47.5, y: -51.5}
+        - {x: 55.5, y: -35.5}
+        - {x: 56.5, y: -23.5}
+        - {x: 56.5, y: 14.5}
+    - name: materials_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 44.5}
+        - {x: -48.5, y: 19.5}
+        - {x: -51.5, y: 8.5}
+        - {x: -52.5, y: 5.5}
+        - {x: -52.5, y: -6.5}
+        - {x: -29.5, y: -51.5}
+        - {x: -5.5, y: -54.5}
+        - {x: 22.5, y: -54.5}
+        - {x: 52.5, y: -22.5}
+        - {x: 52.5, y: 17.5}
+        - {x: 36.5, y: 44.5}
+    - name: materials_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -57.5}
+        - {x: 53.5, y: -57.5}
+        - {x: 53.5, y: -6.5}
+        - {x: 37.5, y: 46.5}
+        - {x: -24.5, y: 46.5}
+        - {x: -50.5, y: 29.5}
+    - name: materials_51
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 31.5}
+        - {x: -33.5, y: 13.5}
+        - {x: -33.5, y: -40.5}
+        - {x: -25.5, y: -43.5}
+        - {x: 34.5, y: -43.5}
+        - {x: 41.5, y: -31.5}
+        - {x: 41.5, y: 19.5}
+        - {x: 21.5, y: 31.5}
+    - name: materials_52
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 40.5}
+        - {x: -47.5, y: 8.5}
+        - {x: -51.5, y: -6.5}
+        - {x: -51.5, y: -34.5}
+        - {x: -25.5, y: -52.5}
+        - {x: 12.5, y: -52.5}
+        - {x: 59.5, y: -27.5}
+        - {x: 59.5, y: 29.5}
+        - {x: 39.5, y: 40.5}
+    - name: materials_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 41.5}
+        - {x: -47.5, y: -29.5}
+        - {x: -33.5, y: -57.5}
+        - {x: 43.5, y: -57.5}
+        - {x: 58.5, y: -42.5}
+        - {x: 58.5, y: 21.5}
+        - {x: -1.5, y: 41.5}
+    - name: materials_54
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 32.5}
+        - {x: -31.5, y: 26.5}
+        - {x: -31.5, y: -38.5}
+        - {x: -17.5, y: -44.5}
+        - {x: 43.5, y: -44.5}
+        - {x: 45.5, y: -42.5}
+        - {x: 45.5, y: 20.5}
+        - {x: 39.5, y: 32.5}
+    - name: materials_55
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 234
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 47.5}
+        - {x: -42.5, y: 21.5}
+        - {x: -42.5, y: -10.5}
+        - {x: -37.5, y: -42.5}
+        - {x: 4.5, y: -56.5}
+        - {x: 18.5, y: -56.5}
+        - {x: 55.5, y: -15.5}
+        - {x: 55.5, y: 15.5}
+        - {x: 20.5, y: 47.5}
+    - name: materials_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 31.5}
+        - {x: -48.5, y: -10.5}
+        - {x: -48.5, y: -50.5}
+        - {x: -47.5, y: -52.5}
+        - {x: -1.5, y: -52.5}
+        - {x: 45.5, y: -34.5}
+        - {x: 47.5, y: -18.5}
+        - {x: 47.5, y: 31.5}
+    - name: materials_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 41.5}
+        - {x: -50.5, y: 35.5}
+        - {x: -50.5, y: -37.5}
+        - {x: -17.5, y: -58.5}
+        - {x: 55.5, y: -58.5}
+        - {x: 55.5, y: 32.5}
+        - {x: 37.5, y: 41.5}
+    - name: materials_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 45.5}
+        - {x: -51.5, y: 24.5}
+        - {x: -51.5, y: -44.5}
+        - {x: -33.5, y: -58.5}
+        - {x: 45.5, y: -58.5}
+        - {x: 56.5, y: -41.5}
+        - {x: 56.5, y: 8.5}
+        - {x: 20.5, y: 45.5}
+    - name: materials_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 45.5}
+        - {x: -35.5, y: -5.5}
+        - {x: -35.5, y: -58.5}
+        - {x: 8.5, y: -58.5}
+        - {x: 43.5, y: -31.5}
+        - {x: 43.5, y: 38.5}
+        - {x: 34.5, y: 45.5}
+    - name: materials_60
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 47.5}
+        - {x: -49.5, y: 2.5}
+        - {x: -49.5, y: -28.5}
+        - {x: -20.5, y: -58.5}
+        - {x: 46.5, y: -58.5}
+        - {x: 56.5, y: -37.5}
+        - {x: 56.5, y: 22.5}
+        - {x: 14.5, y: 47.5}
+    - name: materials_61
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 46.5}
+        - {x: -42.5, y: -58.5}
+        - {x: 56.5, y: -58.5}
+        - {x: 56.5, y: -27.5}
+        - {x: 45.5, y: 26.5}
+        - {x: 17.5, y: 46.5}
+    - name: materials_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 38.5}
+        - {x: 4.5, y: 47.5}
+        - {x: -37.5, y: 47.5}
+        - {x: -46.5, y: 41.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -49.5, y: -30.5}
+        - {x: -46.5, y: -57.5}
+        - {x: -46.5, y: -58.5}
+        - {x: 59.5, y: -58.5}
+        - {x: 59.5, y: -2.5}
+        - {x: 56.5, y: 11.5}
+    - name: materials_63
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 117
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: -25.5}
+        - {x: -59.5, y: -55.5}
+        - {x: -55.5, y: -55.5}
+        - {x: -55.5, y: -26.5}
+        - {x: -58.5, y: -25.5}
+      - - {x: -41.5, y: 36.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -45.5, y: -15.5}
+        - {x: 2.5, y: -55.5}
+        - {x: 43.5, y: -55.5}
+        - {x: 57.5, y: -52.5}
+        - {x: 57.5, y: 3.5}
+        - {x: 47.5, y: 36.5}
+    - name: materials_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 23.5}
+        - {x: -41.5, y: -33.5}
+        - {x: -39.5, y: -45.5}
+        - {x: -34.5, y: -47.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 40.5, y: -36.5}
+        - {x: 40.5, y: 17.5}
+        - {x: 38.5, y: 24.5}
+        - {x: 21.5, y: 34.5}
+        - {x: -13.5, y: 34.5}
+        - {x: -35.5, y: 28.5}
+    - name: materials_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 48.5}
+        - {x: -27.5, y: 48.5}
+        - {x: -50.5, y: 28.5}
+        - {x: -50.5, y: -36.5}
+        - {x: -36.5, y: -56.5}
+        - {x: 28.5, y: -56.5}
+        - {x: 52.5, y: -23.5}
+        - {x: 52.5, y: 22.5}
+        - {x: 51.5, y: 24.5}
+    - name: materials_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51.5}
+        - {x: -43.5, y: 39.5}
+        - {x: -51.5, y: 4.5}
+        - {x: -51.5, y: -42.5}
+        - {x: -38.5, y: -55.5}
+        - {x: 32.5, y: -55.5}
+        - {x: 55.5, y: -42.5}
+        - {x: 55.5, y: 26.5}
+        - {x: 33.5, y: 51.5}
+      - - {x: -5.5, y: 58.5}
+        - {x: -5.5, y: 57.5}
+        - {x: -3.5, y: 54.5}
+        - {x: 36.5, y: 54.5}
+        - {x: 37.5, y: 57.5}
+        - {x: 37.5, y: 58.5}
+    - name: materials_67
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 43.5}
+        - {x: -4.5, y: 43.5}
+        - {x: -54.5, y: 14.5}
+        - {x: -54.5, y: -35.5}
+        - {x: -22.5, y: -48.5}
+        - {x: 23.5, y: -48.5}
+        - {x: 55.5, y: -21.5}
+        - {x: 57.5, y: -13.5}
+        - {x: 57.5, y: 13.5}
+      - - {x: -22.5, y: 58.5}
+        - {x: -21.5, y: 54.5}
+        - {x: -4.5, y: 54.5}
+        - {x: -1.5, y: 56.5}
+        - {x: -1.5, y: 58.5}
+    - name: materials_68
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 58.5}
+        - {x: -12.5, y: 53.5}
+        - {x: -8.5, y: 52.5}
+        - {x: 14.5, y: 52.5}
+        - {x: 17.5, y: 54.5}
+        - {x: 22.5, y: 56.5}
+        - {x: 22.5, y: 58.5}
+    - name: materials_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 58.5}
+        - {x: -43.5, y: 55.5}
+        - {x: -40.5, y: 52.5}
+        - {x: -7.5, y: 52.5}
+        - {x: -5.5, y: 57.5}
+        - {x: -5.5, y: 58.5}
+      - - {x: 15.5, y: 54.5}
+        - {x: 56.5, y: 54.5}
+        - {x: 56.5, y: 58.5}
+        - {x: 11.5, y: 58.5}
+        - {x: 12.5, y: 55.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

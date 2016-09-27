@@ -1,0 +1,5209 @@
+fileFormatVersion: 2
+guid: bc50e635ffa0d8c4f956d44ddedb3398
+timeCreated: 1472714583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 34x34icons_0
+    21300002: 34x34icons_1
+    21300004: 34x34icons_2
+    21300006: 34x34icons_3
+    21300008: 34x34icons_4
+    21300010: 34x34icons_5
+    21300012: 34x34icons_6
+    21300014: 34x34icons_7
+    21300016: 34x34icons_8
+    21300018: 34x34icons_9
+    21300020: 34x34icons_10
+    21300022: 34x34icons_11
+    21300024: 34x34icons_12
+    21300026: 34x34icons_13
+    21300028: 34x34icons_14
+    21300030: 34x34icons_15
+    21300032: 34x34icons_16
+    21300034: 34x34icons_17
+    21300036: 34x34icons_18
+    21300038: 34x34icons_19
+    21300040: 34x34icons_20
+    21300042: 34x34icons_21
+    21300044: 34x34icons_22
+    21300046: 34x34icons_23
+    21300048: 34x34icons_24
+    21300050: 34x34icons_25
+    21300052: 34x34icons_26
+    21300054: 34x34icons_27
+    21300056: 34x34icons_28
+    21300058: 34x34icons_29
+    21300060: 34x34icons_30
+    21300062: 34x34icons_31
+    21300064: 34x34icons_32
+    21300066: 34x34icons_33
+    21300068: 34x34icons_34
+    21300070: 34x34icons_35
+    21300072: 34x34icons_36
+    21300074: 34x34icons_37
+    21300076: 34x34icons_38
+    21300078: 34x34icons_39
+    21300080: 34x34icons_40
+    21300082: 34x34icons_41
+    21300084: 34x34icons_42
+    21300086: 34x34icons_43
+    21300088: 34x34icons_44
+    21300090: 34x34icons_45
+    21300092: 34x34icons_46
+    21300094: 34x34icons_47
+    21300096: 34x34icons_48
+    21300098: 34x34icons_49
+    21300100: 34x34icons_50
+    21300102: 34x34icons_51
+    21300104: 34x34icons_52
+    21300106: 34x34icons_53
+    21300108: 34x34icons_54
+    21300110: 34x34icons_55
+    21300112: 34x34icons_56
+    21300114: 34x34icons_57
+    21300116: 34x34icons_58
+    21300118: 34x34icons_59
+    21300120: 34x34icons_60
+    21300122: 34x34icons_61
+    21300124: Mercenary-avatar
+    21300126: 34x34icons_63
+    21300128: 34x34icons_64
+    21300130: 34x34icons_65
+    21300132: 34x34icons_66
+    21300134: 34x34icons_67
+    21300136: 34x34icons_68
+    21300138: 34x34icons_69
+    21300140: 34x34icons_70
+    21300142: 34x34icons_71
+    21300144: 34x34icons_72
+    21300146: 34x34icons_73
+    21300148: 34x34icons_74
+    21300150: 34x34icons_75
+    21300152: none
+    21300154: 34x34icons_77
+    21300156: 34x34icons_78
+    21300158: 34x34icons_79
+    21300160: 34x34icons_80
+    21300162: 34x34icons_81
+    21300164: 34x34icons_82
+    21300166: 34x34icons_83
+    21300168: 34x34icons_84
+    21300170: 34x34icons_85
+    21300172: 34x34icons_86
+    21300174: 34x34icons_87
+    21300176: 34x34icons_88
+    21300178: 34x34icons_89
+    21300180: 34x34icons_90
+    21300182: 34x34icons_91
+    21300184: 34x34icons_92
+    21300186: 34x34icons_93
+    21300188: 34x34icons_94
+    21300190: 34x34icons_95
+    21300192: 34x34icons_96
+    21300194: 34x34icons_97
+    21300196: 34x34icons_98
+    21300198: 34x34icons_99
+    21300200: 34x34icons_100
+    21300202: phantom_treasure_box
+    21300204: 34x34icons_102
+    21300206: 34x34icons_103
+    21300208: 34x34icons_104
+    21300210: sodier-avatar
+    21300212: 34x34icons_106
+    21300214: 34x34icons_107
+    21300216: 34x34icons_108
+    21300218: 34x34icons_109
+    21300220: 34x34icons_110
+    21300222: 34x34icons_111
+    21300224: 34x34icons_112
+    21300226: 34x34icons_113
+    21300228: 34x34icons_114
+    21300230: 34x34icons_115
+    21300232: 34x34icons_116
+    21300234: 34x34icons_117
+    21300236: 34x34icons_118
+    21300238: 34x34icons_119
+    21300240: 34x34icons_120
+    21300242: 34x34icons_121
+    21300244: 34x34icons_122
+    21300246: 34x34icons_123
+    21300248: 34x34icons_124
+    21300250: 34x34icons_125
+    21300252: 34x34icons_126
+    21300254: 34x34icons_127
+    21300256: 34x34icons_128
+    21300258: 34x34icons_129
+    21300260: 34x34icons_130
+    21300262: 34x34icons_131
+    21300264: 34x34icons_132
+    21300266: 34x34icons_133
+    21300268: 34x34icons_134
+    21300270: 34x34icons_135
+    21300272: 34x34icons_136
+    21300274: 34x34icons_137
+    21300276: 34x34icons_138
+    21300278: 34x34icons_139
+    21300280: 34x34icons_140
+    21300282: 34x34icons_141
+    21300284: 34x34icons_142
+    21300286: 34x34icons_143
+    21300288: 34x34icons_144
+    21300290: 34x34icons_145
+    21300292: 34x34icons_146
+    21300294: 34x34icons_147
+    21300296: 34x34icons_148
+    21300298: magician_treasure_box
+    21300300: 34x34icons_150
+    21300302: 34x34icons_151
+    21300304: 34x34icons_152
+    21300306: 34x34icons_153
+    21300308: 34x34icons_154
+    21300310: 34x34icons_155
+    21300312: 34x34icons_156
+    21300314: 34x34icons_157
+    21300316: 34x34icons_158
+    21300318: 34x34icons_159
+    21300320: 34x34icons_160
+    21300322: 34x34icons_161
+    21300324: 34x34icons_162
+    21300326: 34x34icons_163
+    21300328: 34x34icons_164
+    21300330: 34x34icons_165
+    21300332: sodier_treasure_box
+    21300334: 34x34icons_167
+    21300336: 34x34icons_168
+    21300338: 34x34icons_169
+    21300340: 34x34icons_170
+    21300342: 34x34icons_171
+    21300344: 34x34icons_172
+    21300346: 34x34icons_173
+    21300348: 34x34icons_174
+    21300350: 34x34icons_175
+    21300352: 34x34icons_176
+    21300354: 34x34icons_177
+    21300356: 34x34icons_178
+    21300358: 34x34icons_179
+    21300360: 34x34icons_180
+    21300362: 34x34icons_181
+    21300364: 34x34icons_182
+    21300366: healer_treasure_box
+    21300368: 34x34icons_184
+    21300370: 34x34icons_185
+    21300372: 34x34icons_186
+    21300374: 34x34icons_187
+    21300376: 34x34icons_188
+    21300378: 34x34icons_189
+    21300380: 34x34icons_190
+    21300382: 34x34icons_191
+    21300384: 34x34icons_192
+    21300386: 34x34icons_193
+    21300388: 34x34icons_194
+    21300390: 34x34icons_195
+    21300392: 34x34icons_196
+    21300394: 34x34icons_197
+    21300396: mercenary_treasure_box
+    21300398: 34x34icons_199
+    21300400: 34x34icons_200
+    21300402: 34x34icons_201
+    21300404: 34x34icons_202
+    21300406: 34x34icons_203
+    21300408: 34x34icons_204
+    21300410: 34x34icons_205
+    21300412: 34x34icons_206
+    21300414: 34x34icons_207
+    21300416: 34x34icons_208
+    21300418: 34x34icons_209
+    21300420: 34x34icons_210
+    21300422: 34x34icons_211
+    21300424: 34x34icons_212
+    21300426: 34x34icons_213
+    21300428: 34x34icons_214
+    21300430: 34x34icons_215
+    21300432: 34x34icons_216
+    21300434: 34x34icons_217
+    21300436: 34x34icons_218
+    21300438: 34x34icons_219
+    21300440: 34x34icons_220
+    21300442: 34x34icons_221
+    21300444: 34x34icons_222
+    21300446: 34x34icons_223
+    21300448: 34x34icons_224
+    21300450: 34x34icons_225
+    21300452: 34x34icons_226
+    21300454: 34x34icons_227
+    21300456: gold2_treasure_box
+    21300458: gold_treasure_box
+    21300460: 34x34icons_230
+    21300462: 34x34icons_231
+    21300464: 34x34icons_232
+    21300466: 34x34icons_233
+    21300468: 34x34icons_234
+    21300470: 34x34icons_235
+    21300472: 34x34icons_236
+    21300474: 34x34icons_237
+    21300476: 34x34icons_238
+    21300478: 34x34icons_239
+    21300480: 34x34icons_240
+    21300482: 34x34icons_241
+    21300484: 34x34icons_242
+    21300486: 34x34icons_243
+    21300488: 34x34icons_244
+    21300490: 34x34icons_245
+    21300492: 34x34icons_246
+    21300494: 34x34icons_247
+    21300496: 34x34icons_248
+    21300498: 34x34icons_249
+    21300500: 34x34icons_250
+    21300502: 34x34icons_251
+    21300504: 34x34icons_252
+    21300506: 34x34icons_253
+    21300508: 34x34icons_254
+    21300510: 34x34icons_255
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 34x34icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -13, y: 5}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: -5, y: -14}
+        - {x: 12, y: -4}
+        - {x: 14, y: 2}
+        - {x: 14, y: 14}
+    - name: 34x34icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 11}
+        - {x: -5, y: 11}
+        - {x: -11, y: 4}
+        - {x: -11, y: -5}
+        - {x: -4, y: -14}
+        - {x: 10, y: -14}
+        - {x: 12, y: -8}
+        - {x: 12, y: 5}
+        - {x: 7, y: 10}
+    - name: 34x34icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -12, y: 1}
+        - {x: -12, y: -11}
+        - {x: -6, y: -13}
+        - {x: 6, y: -13}
+        - {x: 14, y: -7}
+        - {x: 14, y: 3}
+        - {x: 10, y: 10}
+    - name: 34x34icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -3, y: 11}
+        - {x: -13, y: 5}
+        - {x: -13, y: -7}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -3}
+        - {x: 13, y: 7}
+        - {x: 9, y: 10}
+    - name: 34x34icons_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 12}
+        - {x: -13, y: -10}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -4}
+        - {x: 14, y: 12}
+    - name: 34x34icons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -13, y: 6}
+        - {x: -13, y: -13}
+        - {x: 4, y: -13}
+        - {x: 13, y: -11}
+        - {x: 13, y: 14}
+    - name: 34x34icons_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -7, y: 13}
+        - {x: -11, y: 4}
+        - {x: -11, y: -13}
+        - {x: 3, y: -13}
+        - {x: 13, y: -4}
+        - {x: 13, y: 5}
+        - {x: 12, y: 7}
+    - name: 34x34icons_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: 0, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -12}
+        - {x: -12, y: -14}
+        - {x: -6, y: -14}
+        - {x: 5, y: -10}
+        - {x: 9, y: -5}
+        - {x: 12, y: 1}
+    - name: 34x34icons_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -12, y: 2}
+        - {x: -12, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 4}
+        - {x: 9, y: 11}
+    - name: 34x34icons_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 8}
+        - {x: -1, y: 12}
+        - {x: -8, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -5}
+        - {x: -9, y: -14}
+        - {x: 4, y: -14}
+        - {x: 12, y: -8}
+        - {x: 12, y: 2}
+    - name: 34x34icons_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 11}
+        - {x: -1, y: 11}
+        - {x: -10, y: 10}
+        - {x: -12, y: 3}
+        - {x: -12, y: -10}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -6}
+        - {x: 12, y: 2}
+        - {x: 12, y: 6}
+    - name: 34x34icons_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -2, y: 14}
+        - {x: -11, y: 5}
+        - {x: -11, y: -5}
+        - {x: -2, y: -14}
+        - {x: 3, y: -14}
+        - {x: 9, y: -8}
+        - {x: 11, y: -1}
+        - {x: 11, y: 11}
+    - name: 34x34icons_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -3, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -12, y: -14}
+        - {x: 8, y: -14}
+        - {x: 13, y: -13}
+        - {x: 13, y: 5}
+        - {x: 10, y: 13}
+    - name: 34x34icons_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -13}
+        - {x: 9, y: -13}
+        - {x: 9, y: 8}
+        - {x: 5, y: 12}
+    - name: 34x34icons_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -3}
+        - {x: -9, y: -7}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: 10}
+        - {x: 6, y: 12}
+    - name: 34x34icons_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -10, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -9}
+        - {x: 8, y: -9}
+        - {x: 13, y: -4}
+        - {x: 13, y: 3}
+        - {x: 3, y: 9}
+    - name: 34x34icons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: 2, y: 14}
+        - {x: -14, y: -3}
+        - {x: -14, y: -14}
+        - {x: -6, y: -14}
+        - {x: 5, y: -8}
+        - {x: 14, y: 5}
+        - {x: 14, y: 9}
+        - {x: 12, y: 13}
+    - name: 34x34icons_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 10}
+        - {x: -12, y: -10}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 11}
+        - {x: 10, y: 12}
+    - name: 34x34icons_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -12, y: 3}
+        - {x: -12, y: -6}
+        - {x: -6, y: -12}
+        - {x: 7, y: -12}
+        - {x: 13, y: -9}
+        - {x: 13, y: -1}
+        - {x: 11, y: 3}
+        - {x: 3, y: 11}
+    - name: 34x34icons_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -7}
+        - {x: -6, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 10}
+    - name: 34x34icons_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -9, y: 12}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -9, y: -13}
+        - {x: 6, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: 8}
+        - {x: 11, y: 13}
+    - name: 34x34icons_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -3, y: -14}
+        - {x: 6, y: -14}
+        - {x: 13, y: -6}
+        - {x: 13, y: 13}
+    - name: 34x34icons_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -10}
+        - {x: 11, y: -8}
+        - {x: 13, y: -4}
+        - {x: 13, y: 8}
+        - {x: 11, y: 14}
+        - {x: -1, y: 14}
+        - {x: -13, y: 3}
+        - {x: -13, y: -12}
+        - {x: -12, y: -14}
+        - {x: -3, y: -14}
+        - {x: 1, y: -11}
+        - {x: 2, y: -8}
+        - {x: 6, y: -10}
+    - name: 34x34icons_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 13}
+        - {x: -14, y: 1}
+        - {x: -14, y: -12}
+        - {x: -10, y: -14}
+        - {x: 6, y: -14}
+        - {x: 12, y: -10}
+        - {x: 12, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -9, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -11}
+        - {x: -12, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -11}
+        - {x: 13, y: -1}
+        - {x: 10, y: 9}
+    - name: 34x34icons_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -12, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -6}
+        - {x: -6, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -12}
+        - {x: 13, y: -7}
+        - {x: 13, y: 4}
+        - {x: 10, y: 13}
+    - name: 34x34icons_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -3, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 5}
+        - {x: 10, y: 11}
+        - {x: 7, y: 12}
+        - {x: -9, y: 12}
+        - {x: -13, y: 11}
+    - name: 34x34icons_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -5}
+        - {x: -11, y: -12}
+        - {x: -10, y: -13}
+        - {x: 4, y: -13}
+        - {x: 13, y: -10}
+        - {x: 13, y: 3}
+        - {x: 4, y: 12}
+    - name: 34x34icons_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -7}
+        - {x: -9, y: -10}
+        - {x: 1, y: -10}
+        - {x: 7, y: -8}
+        - {x: 10, y: -3}
+        - {x: 10, y: 5}
+        - {x: 6, y: 9}
+    - name: 34x34icons_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -5}
+        - {x: -10, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 9}
+        - {x: 10, y: 13}
+        - {x: -7, y: 13}
+        - {x: -13, y: 6}
+    - name: 34x34icons_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -1, y: -11}
+        - {x: 10, y: -11}
+        - {x: 10, y: 1}
+        - {x: 6, y: 10}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+    - name: 34x34icons_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -13, y: 4}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -10}
+        - {x: 11, y: 7}
+        - {x: 0, y: 13}
+    - name: 34x34icons_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 12}
+        - {x: -13, y: 12}
+        - {x: -13, y: -13}
+        - {x: -12, y: -14}
+        - {x: 2, y: -14}
+        - {x: 14, y: -7}
+        - {x: 14, y: 9}
+        - {x: 13, y: 11}
+    - name: 34x34icons_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 13}
+        - {x: -5, y: 13}
+        - {x: -11, y: 10}
+        - {x: -11, y: -7}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 13, y: -8}
+        - {x: 13, y: 10}
+    - name: 34x34icons_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -12, y: 1}
+        - {x: -13, y: -1}
+        - {x: -13, y: -7}
+        - {x: -10, y: -11}
+        - {x: -1, y: -11}
+        - {x: 8, y: -8}
+        - {x: 13, y: -4}
+        - {x: 13, y: 4}
+        - {x: 11, y: 9}
+    - name: 34x34icons_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -9, y: 1}
+        - {x: -9, y: -10}
+        - {x: -7, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 6}
+        - {x: 5, y: 9}
+    - name: 34x34icons_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 4}
+        - {x: -7, y: 4}
+        - {x: -10, y: 2}
+        - {x: -10, y: -6}
+        - {x: -7, y: -14}
+        - {x: 2, y: -14}
+        - {x: 8, y: -12}
+        - {x: 10, y: -4}
+        - {x: 10, y: 1}
+    - name: 34x34icons_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 8}
+        - {x: -10, y: 1}
+        - {x: -10, y: -4}
+        - {x: -8, y: -11}
+        - {x: -4, y: -14}
+        - {x: 2, y: -14}
+        - {x: 9, y: -12}
+        - {x: 10, y: -6}
+        - {x: 10, y: 2}
+        - {x: 4, y: 8}
+    - name: 34x34icons_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 8}
+        - {x: -7, y: 8}
+        - {x: -10, y: 0}
+        - {x: -10, y: -7}
+        - {x: -7, y: -11}
+        - {x: -5, y: -13}
+        - {x: -2, y: -14}
+        - {x: 2, y: -14}
+        - {x: 8, y: -11}
+        - {x: 10, y: -4}
+        - {x: 10, y: 2}
+    - name: 34x34icons_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -10, y: 11}
+        - {x: -10, y: -8}
+        - {x: -6, y: -14}
+        - {x: 10, y: -14}
+        - {x: 10, y: 12}
+    - name: 34x34icons_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 11}
+        - {x: -6, y: 11}
+        - {x: -11, y: 9}
+        - {x: -11, y: -10}
+        - {x: -4, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: 2}
+    - name: 34x34icons_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -14}
+        - {x: 8, y: -14}
+        - {x: 11, y: -11}
+        - {x: 12, y: -8}
+        - {x: 12, y: 3}
+    - name: 34x34icons_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -7}
+        - {x: -1, y: -12}
+        - {x: 5, y: -12}
+        - {x: 13, y: -2}
+        - {x: 13, y: 7}
+        - {x: 12, y: 10}
+    - name: 34x34icons_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -9, y: 8}
+        - {x: -9, y: -2}
+        - {x: -4, y: -11}
+        - {x: 7, y: -11}
+        - {x: 7, y: 9}
+        - {x: 2, y: 10}
+    - name: 34x34icons_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 13}
+        - {x: -13, y: -1}
+        - {x: -13, y: -12}
+        - {x: -10, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: 13}
+    - name: 34x34icons_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -4}
+        - {x: -3, y: -12}
+        - {x: -1, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: 12}
+        - {x: 2, y: 12}
+        - {x: -11, y: 9}
+    - name: 34x34icons_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 9}
+        - {x: -8, y: 9}
+        - {x: -11, y: 7}
+        - {x: -11, y: -5}
+        - {x: -2, y: -11}
+        - {x: 4, y: -11}
+        - {x: 10, y: -3}
+        - {x: 11, y: -2}
+        - {x: 11, y: 6}
+    - name: 34x34icons_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 9}
+        - {x: -14, y: -12}
+        - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -4}
+        - {x: 14, y: 14}
+    - name: 34x34icons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -11, y: 9}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -6, y: -14}
+        - {x: 8, y: -14}
+        - {x: 11, y: -11}
+        - {x: 11, y: 10}
+        - {x: 4, y: 13}
+    - name: 34x34icons_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 9}
+        - {x: -10, y: 5}
+        - {x: -13, y: 0}
+        - {x: -13, y: -12}
+        - {x: 14, y: -12}
+        - {x: 14, y: -1}
+        - {x: 5, y: 9}
+    - name: 34x34icons_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -10, y: 8}
+        - {x: -14, y: 2}
+        - {x: -14, y: -7}
+        - {x: -9, y: -14}
+        - {x: -1, y: -14}
+        - {x: 13, y: -6}
+        - {x: 13, y: 9}
+        - {x: 9, y: 12}
+    - name: 34x34icons_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -11, y: 9}
+        - {x: -11, y: -6}
+        - {x: -3, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -11}
+        - {x: 10, y: 9}
+        - {x: 8, y: 12}
+    - name: 34x34icons_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -10}
+        - {x: -9, y: -14}
+        - {x: 4, y: -14}
+        - {x: 9, y: -13}
+        - {x: 13, y: -6}
+        - {x: 13, y: 7}
+        - {x: 7, y: 14}
+    - name: 34x34icons_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -8, y: 13}
+        - {x: -13, y: 8}
+        - {x: -13, y: -1}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 9, y: -13}
+        - {x: 13, y: -2}
+        - {x: 13, y: 6}
+        - {x: 6, y: 14}
+    - name: 34x34icons_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -10}
+        - {x: -9, y: -14}
+        - {x: 4, y: -14}
+        - {x: 9, y: -13}
+        - {x: 13, y: -6}
+        - {x: 13, y: 7}
+        - {x: 7, y: 14}
+    - name: 34x34icons_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 11}
+        - {x: -12, y: -5}
+        - {x: -7, y: -14}
+        - {x: 7, y: -14}
+        - {x: 12, y: -4}
+        - {x: 12, y: 10}
+        - {x: 9, y: 12}
+    - name: 34x34icons_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -2, y: 10}
+        - {x: -7, y: 2}
+        - {x: -7, y: -4}
+        - {x: -6, y: -11}
+        - {x: -4, y: -12}
+        - {x: 1, y: -12}
+        - {x: 8, y: -4}
+        - {x: 10, y: 1}
+        - {x: 10, y: 6}
+    - name: 34x34icons_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 4}
+        - {x: 2, y: 12}
+        - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -5}
+    - name: 34x34icons_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 4}
+        - {x: 2, y: 12}
+        - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -5}
+    - name: 34x34icons_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 4}
+        - {x: 2, y: 12}
+        - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -10}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -5}
+    - name: 34x34icons_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 11}
+        - {x: -13, y: -11}
+        - {x: 12, y: -11}
+        - {x: 13, y: -10}
+        - {x: 13, y: 5}
+        - {x: 9, y: 11}
+    - name: 34x34icons_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -8}
+        - {x: -5, y: -12}
+        - {x: 3, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+        - {x: 8, y: 9}
+        - {x: -9, y: 9}
+        - {x: -10, y: 6}
+    - name: Mercenary-avatar
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 5}
+        - {x: -12, y: -9}
+        - {x: -9, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 4}
+        - {x: 9, y: 13}
+    - name: 34x34icons_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -6}
+        - {x: 12, y: 9}
+        - {x: 7, y: 13}
+    - name: 34x34icons_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 12}
+        - {x: -14, y: -1}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 14, y: -9}
+        - {x: 14, y: 6}
+        - {x: 2, y: 12}
+    - name: 34x34icons_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -1, y: 13}
+        - {x: -8, y: 13}
+        - {x: -12, y: 10}
+        - {x: -13, y: 6}
+        - {x: -13, y: -6}
+        - {x: -10, y: -11}
+        - {x: 0, y: -14}
+        - {x: 5, y: -14}
+        - {x: 8, y: -11}
+        - {x: 10, y: -1}
+        - {x: 10, y: 4}
+    - name: 34x34icons_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -10, y: 10}
+        - {x: -10, y: -9}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+        - {x: 9, y: -9}
+        - {x: 9, y: 0}
+        - {x: 7, y: 9}
+    - name: 34x34icons_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -10}
+        - {x: -10, y: -12}
+        - {x: 5, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 10}
+        - {x: 5, y: 12}
+    - name: 34x34icons_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -2}
+        - {x: -1, y: -13}
+        - {x: 8, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 4}
+        - {x: -2, y: 12}
+        - {x: -11, y: 12}
+        - {x: -12, y: 9}
+    - name: 34x34icons_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -3, y: 14}
+        - {x: -8, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -2}
+        - {x: 5, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -11}
+        - {x: 14, y: 0}
+    - name: 34x34icons_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -1}
+        - {x: -9, y: -4}
+        - {x: -2, y: -10}
+        - {x: 3, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: -6}
+        - {x: 2, y: 12}
+    - name: 34x34icons_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: 1}
+        - {x: 1, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: -4}
+        - {x: 1, y: 14}
+    - name: 34x34icons_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -3}
+        - {x: -11, y: -10}
+        - {x: -6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -11}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+    - name: 34x34icons_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 11}
+        - {x: -12, y: -10}
+        - {x: -3, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -10}
+        - {x: 13, y: 8}
+        - {x: 12, y: 11}
+    - name: 34x34icons_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -14, y: 5}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: 34x34icons_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -14, y: -2}
+        - {x: -14, y: -10}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 14, y: -7}
+        - {x: 14, y: 12}
+    - name: none
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -2, y: 8}
+        - {x: -13, y: 0}
+        - {x: -13, y: -10}
+        - {x: -12, y: -13}
+        - {x: -4, y: -13}
+        - {x: 10, y: -3}
+        - {x: 12, y: 1}
+        - {x: 12, y: 10}
+        - {x: 11, y: 12}
+    - name: 34x34icons_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 3}
+        - {x: -13, y: -7}
+        - {x: -9, y: -14}
+        - {x: 4, y: -14}
+        - {x: 9, y: -9}
+        - {x: 9, y: 13}
+        - {x: -1, y: 13}
+        - {x: -10, y: 9}
+    - name: 34x34icons_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: -2}
+        - {x: -12, y: -13}
+        - {x: 4, y: -13}
+        - {x: 12, y: -6}
+        - {x: 12, y: 9}
+        - {x: 11, y: 12}
+    - name: 34x34icons_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -2, y: 13}
+        - {x: -11, y: 9}
+        - {x: -11, y: -6}
+        - {x: -9, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 11, y: 10}
+    - name: 34x34icons_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -13, y: 6}
+        - {x: -13, y: 4}
+        - {x: 3, y: -12}
+        - {x: 4, y: -12}
+        - {x: 11, y: -5}
+        - {x: 11, y: -3}
+        - {x: -5, y: 13}
+    - name: 34x34icons_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 5}
+        - {x: 6, y: 11}
+        - {x: -5, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -5, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -7}
+        - {x: 12, y: -4}
+        - {x: 12, y: 2}
+    - name: 34x34icons_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -10, y: -13}
+        - {x: 8, y: -13}
+        - {x: 8, y: 3}
+        - {x: 4, y: 11}
+    - name: 34x34icons_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -6, y: 9}
+        - {x: -6, y: -9}
+        - {x: -4, y: -13}
+        - {x: 5, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+        - {x: 5, y: 11}
+    - name: 34x34icons_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -5, y: 12}
+        - {x: -12, y: 6}
+        - {x: -14, y: -3}
+        - {x: -14, y: -8}
+        - {x: -7, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -10}
+        - {x: 13, y: 7}
+        - {x: 10, y: 11}
+    - name: 34x34icons_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 13}
+        - {x: -1, y: 13}
+        - {x: -5, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -3, y: -14}
+        - {x: 8, y: -14}
+        - {x: 12, y: -5}
+        - {x: 12, y: 10}
+    - name: 34x34icons_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 11}
+        - {x: -13, y: 8}
+        - {x: -13, y: -6}
+        - {x: -12, y: -10}
+        - {x: -9, y: -14}
+        - {x: 5, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: 34x34icons_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 13}
+        - {x: -9, y: 9}
+        - {x: -13, y: 0}
+        - {x: -13, y: -9}
+        - {x: -11, y: -14}
+        - {x: 0, y: -14}
+        - {x: 10, y: -8}
+        - {x: 13, y: 2}
+        - {x: 13, y: 11}
+        - {x: 11, y: 13}
+    - name: 34x34icons_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 13}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -11, y: -5}
+        - {x: -11, y: -9}
+        - {x: -6, y: -13}
+        - {x: 0, y: -13}
+        - {x: 13, y: -5}
+        - {x: 13, y: 6}
+        - {x: 7, y: 13}
+    - name: 34x34icons_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -6, y: 12}
+        - {x: -11, y: 11}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -10, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 10}
+        - {x: 10, y: 11}
+    - name: 34x34icons_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -10}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 13, y: -8}
+        - {x: 13, y: 13}
+    - name: 34x34icons_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -13, y: 4}
+        - {x: -13, y: -9}
+        - {x: -10, y: -12}
+        - {x: 3, y: -12}
+        - {x: 10, y: -9}
+        - {x: 13, y: -6}
+        - {x: 13, y: 7}
+        - {x: 9, y: 14}
+    - name: 34x34icons_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: phantom_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: 34x34icons_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: 34x34icons_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: 34x34icons_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: sodier-avatar
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: -1}
+        - {x: 14, y: 12}
+    - name: 34x34icons_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -11, y: 10}
+        - {x: -11, y: -8}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -4}
+        - {x: 10, y: 10}
+        - {x: 8, y: 12}
+    - name: 34x34icons_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -9, y: 10}
+        - {x: -11, y: 3}
+        - {x: -11, y: -7}
+        - {x: -5, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 5}
+        - {x: 6, y: 11}
+    - name: 34x34icons_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -12, y: -2}
+        - {x: -12, y: -9}
+        - {x: -11, y: -12}
+        - {x: 1, y: -12}
+        - {x: 5, y: -11}
+        - {x: 12, y: 3}
+        - {x: 12, y: 8}
+        - {x: 11, y: 9}
+    - name: 34x34icons_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: 1, y: 12}
+        - {x: -12, y: 12}
+        - {x: -12, y: -11}
+        - {x: -6, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -7}
+        - {x: 12, y: -1}
+    - name: 34x34icons_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: 34x34icons_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 9}
+        - {x: -10, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -10}
+        - {x: 10, y: 7}
+        - {x: 5, y: 12}
+    - name: 34x34icons_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -10, y: 3}
+        - {x: -10, y: -8}
+        - {x: -5, y: -9}
+        - {x: 5, y: -9}
+        - {x: 8, y: -8}
+        - {x: 8, y: 4}
+        - {x: 7, y: 9}
+    - name: 34x34icons_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: -5, y: 10}
+        - {x: -10, y: 9}
+        - {x: -10, y: -5}
+        - {x: -4, y: -10}
+        - {x: 3, y: -10}
+        - {x: 9, y: -5}
+        - {x: 10, y: -2}
+        - {x: 10, y: 5}
+    - name: 34x34icons_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -11}
+        - {x: 13, y: 10}
+        - {x: 10, y: 13}
+    - name: 34x34icons_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -12, y: 11}
+        - {x: -12, y: 0}
+        - {x: -11, y: -8}
+        - {x: -9, y: -11}
+        - {x: -1, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: -4}
+        - {x: 11, y: 4}
+    - name: 34x34icons_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 0, y: 11}
+        - {x: -7, y: 11}
+        - {x: -12, y: 3}
+        - {x: -12, y: -11}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 12, y: -3}
+        - {x: 12, y: 5}
+    - name: 34x34icons_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -8, y: -12}
+        - {x: 1, y: -13}
+        - {x: 9, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 2}
+        - {x: 8, y: 11}
+    - name: 34x34icons_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -13, y: 6}
+        - {x: -13, y: -7}
+        - {x: -2, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 4}
+        - {x: 9, y: 12}
+    - name: 34x34icons_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -3, y: 12}
+        - {x: -6, y: 8}
+        - {x: -9, y: 0}
+        - {x: -9, y: -8}
+        - {x: -5, y: -13}
+        - {x: 6, y: -13}
+        - {x: 10, y: -10}
+        - {x: 10, y: 3}
+        - {x: 9, y: 9}
+    - name: 34x34icons_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -4, y: 13}
+        - {x: -9, y: 4}
+        - {x: -9, y: -12}
+        - {x: -5, y: -13}
+        - {x: 7, y: -13}
+        - {x: 9, y: -11}
+        - {x: 9, y: -2}
+        - {x: 7, y: 11}
+    - name: 34x34icons_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -3, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -11}
+        - {x: -3, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -11}
+        - {x: 8, y: 10}
+    - name: 34x34icons_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -9, y: 1}
+        - {x: -9, y: -11}
+        - {x: -5, y: -12}
+        - {x: 8, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+    - name: 34x34icons_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -14, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+        - {x: -2, y: 14}
+    - name: 34x34icons_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -14, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+        - {x: -2, y: 14}
+    - name: 34x34icons_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -1, y: 8}
+        - {x: 1, y: 5}
+        - {x: -7, y: 0}
+        - {x: -10, y: -6}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+        - {x: 2, y: 14}
+    - name: 34x34icons_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -1, y: 11}
+        - {x: -1, y: 8}
+        - {x: 1, y: 5}
+        - {x: -8, y: -1}
+        - {x: -10, y: -3}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 7, y: -14}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+    - name: 34x34icons_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -3}
+        - {x: 14, y: 13}
+        - {x: 13, y: 14}
+    - name: 34x34icons_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -14}
+        - {x: 4, y: -14}
+        - {x: 9, y: -6}
+        - {x: 14, y: 6}
+        - {x: 14, y: 14}
+    - name: 34x34icons_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -8}
+        - {x: 14, y: 14}
+    - name: 34x34icons_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -7}
+        - {x: 14, y: 14}
+    - name: 34x34icons_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -12, y: 0}
+        - {x: -12, y: -9}
+        - {x: -10, y: -13}
+        - {x: -1, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: 13}
+    - name: 34x34icons_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -9, y: 6}
+        - {x: -9, y: 1}
+        - {x: -6, y: -6}
+        - {x: -3, y: -12}
+        - {x: 2, y: -12}
+        - {x: 6, y: -10}
+        - {x: 9, y: 0}
+        - {x: 9, y: 8}
+        - {x: 5, y: 10}
+    - name: 34x34icons_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -10, y: 9}
+        - {x: -10, y: 0}
+        - {x: -1, y: -10}
+        - {x: 9, y: -10}
+        - {x: 10, y: -7}
+        - {x: 10, y: 1}
+        - {x: -3, y: 10}
+    - name: 34x34icons_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -11, y: 12}
+        - {x: -11, y: -8}
+        - {x: -6, y: -12}
+        - {x: -3, y: -12}
+        - {x: 11, y: 0}
+        - {x: 11, y: 6}
+        - {x: 9, y: 10}
+    - name: 34x34icons_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11}
+        - {x: -12, y: -1}
+        - {x: -12, y: -11}
+        - {x: -11, y: -13}
+        - {x: -5, y: -13}
+        - {x: 12, y: -4}
+        - {x: 12, y: 10}
+        - {x: 11, y: 11}
+    - name: magician_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: -5, y: -13}
+        - {x: 4, y: -13}
+        - {x: 10, y: -5}
+        - {x: 10, y: 3}
+        - {x: 3, y: 12}
+    - name: 34x34icons_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -11, y: 0}
+        - {x: -11, y: -9}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -7}
+        - {x: 11, y: 3}
+        - {x: 2, y: 9}
+    - name: 34x34icons_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -14, y: 0}
+        - {x: -14, y: -7}
+        - {x: -12, y: -13}
+        - {x: 8, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: 3}
+        - {x: 10, y: 12}
+    - name: 34x34icons_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -5, y: 11}
+        - {x: -6, y: 7}
+        - {x: -14, y: -2}
+        - {x: -14, y: -12}
+        - {x: -13, y: -14}
+        - {x: 6, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 12}
+        - {x: 12, y: 14}
+    - name: 34x34icons_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -6, y: 7}
+        - {x: -14, y: -2}
+        - {x: -14, y: -12}
+        - {x: -13, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+        - {x: -2, y: 14}
+    - name: 34x34icons_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -1, y: 11}
+        - {x: -1, y: 8}
+        - {x: 1, y: 5}
+        - {x: -7, y: 0}
+        - {x: -10, y: -6}
+        - {x: -10, y: -14}
+        - {x: 6, y: -14}
+        - {x: 12, y: -12}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+    - name: 34x34icons_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -10, y: 9}
+        - {x: -10, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -7}
+        - {x: 16, y: 14}
+    - name: 34x34icons_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -5}
+        - {x: 14, y: 14}
+    - name: 34x34icons_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -6}
+        - {x: 14, y: 14}
+        - {x: -8, y: 14}
+        - {x: -14, y: 11}
+    - name: 34x34icons_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 14}
+        - {x: -6, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 8, y: -14}
+        - {x: 14, y: -4}
+        - {x: 14, y: 12}
+    - name: 34x34icons_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 9, y: -14}
+        - {x: 14, y: -6}
+        - {x: 14, y: 14}
+    - name: 34x34icons_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 12}
+        - {x: -8, y: 6}
+        - {x: -8, y: -10}
+        - {x: -7, y: -12}
+        - {x: 1, y: -12}
+        - {x: 10, y: -3}
+        - {x: 10, y: 11}
+        - {x: 8, y: 12}
+    - name: 34x34icons_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -1}
+        - {x: -9, y: -8}
+        - {x: -5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 11, y: -8}
+        - {x: 11, y: -1}
+        - {x: 3, y: 13}
+        - {x: -2, y: 13}
+        - {x: -12, y: 7}
+    - name: 34x34icons_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -13, y: 5}
+        - {x: -13, y: -6}
+        - {x: 2, y: -13}
+        - {x: 10, y: -13}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 2, y: 12}
+    - name: 34x34icons_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -12, y: -3}
+        - {x: -12, y: -11}
+        - {x: -11, y: -13}
+        - {x: -1, y: -13}
+        - {x: 13, y: -4}
+        - {x: 13, y: 9}
+        - {x: 8, y: 12}
+    - name: 34x34icons_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -3, y: 13}
+        - {x: -7, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: -3, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -11}
+        - {x: 8, y: -2}
+        - {x: 6, y: 11}
+    - name: 34x34icons_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -3, y: 13}
+        - {x: -7, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: -3, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -11}
+        - {x: 8, y: -2}
+        - {x: 6, y: 11}
+    - name: sodier_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -4}
+        - {x: -10, y: -8}
+        - {x: -3, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -6}
+        - {x: 11, y: 6}
+        - {x: 4, y: 12}
+    - name: 34x34icons_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -4, y: 12}
+        - {x: -6, y: 10}
+        - {x: -9, y: -3}
+        - {x: -9, y: -8}
+        - {x: -2, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 5, y: 10}
+    - name: 34x34icons_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -12}
+        - {x: -13, y: -14}
+        - {x: 4, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+    - name: 34x34icons_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 13}
+        - {x: -14, y: -14}
+        - {x: 6, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+    - name: 34x34icons_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -8, y: 6}
+        - {x: -10, y: -1}
+        - {x: -10, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: 14}
+    - name: 34x34icons_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -10, y: 3}
+        - {x: -10, y: -12}
+        - {x: -9, y: -14}
+        - {x: 7, y: -14}
+        - {x: 16, y: -4}
+        - {x: 16, y: 14}
+    - name: 34x34icons_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -14}
+        - {x: 7, y: -14}
+        - {x: 14, y: -3}
+        - {x: 14, y: 14}
+    - name: 34x34icons_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 5}
+        - {x: -14, y: -14}
+        - {x: 8, y: -14}
+        - {x: 14, y: -3}
+        - {x: 14, y: 14}
+    - name: 34x34icons_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 5, y: -14}
+        - {x: 13, y: -7}
+        - {x: 14, y: -3}
+        - {x: 14, y: 14}
+    - name: 34x34icons_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 5, y: -14}
+        - {x: 14, y: -7}
+        - {x: 14, y: 14}
+    - name: 34x34icons_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -9, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: 4}
+        - {x: -4, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -13}
+        - {x: 14, y: -12}
+        - {x: 14, y: -4}
+        - {x: 4, y: 12}
+    - name: 34x34icons_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: -8, y: 14}
+        - {x: -14, y: 4}
+        - {x: -14, y: -6}
+        - {x: -6, y: -14}
+        - {x: 3, y: -14}
+        - {x: 13, y: -9}
+        - {x: 14, y: -2}
+        - {x: 14, y: 1}
+        - {x: 7, y: 11}
+    - name: 34x34icons_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -13, y: 10}
+        - {x: -13, y: -1}
+        - {x: -12, y: -3}
+        - {x: -8, y: -12}
+        - {x: -6, y: -13}
+        - {x: 5, y: -13}
+        - {x: 14, y: -5}
+        - {x: 14, y: -1}
+        - {x: 9, y: 11}
+    - name: 34x34icons_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 12}
+        - {x: -12, y: 2}
+        - {x: -12, y: -10}
+        - {x: -9, y: -13}
+        - {x: 3, y: -13}
+        - {x: 10, y: -4}
+        - {x: 10, y: 9}
+        - {x: 6, y: 12}
+    - name: 34x34icons_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -3, y: 13}
+        - {x: -7, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: -3, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -11}
+        - {x: 8, y: -2}
+        - {x: 6, y: 11}
+    - name: 34x34icons_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -3, y: 13}
+        - {x: -7, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: -3, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -11}
+        - {x: 8, y: -2}
+        - {x: 6, y: 11}
+    - name: 34x34icons_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -11, y: 4}
+        - {x: -11, y: -4}
+        - {x: -10, y: -8}
+        - {x: -3, y: -13}
+        - {x: 5, y: -13}
+        - {x: 11, y: -6}
+        - {x: 11, y: 6}
+        - {x: 4, y: 12}
+    - name: healer_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -4, y: 12}
+        - {x: -6, y: 10}
+        - {x: -9, y: -3}
+        - {x: -9, y: -8}
+        - {x: -2, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 5, y: 10}
+    - name: 34x34icons_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 13}
+        - {x: -14, y: -14}
+        - {x: 11, y: -14}
+        - {x: 14, y: -4}
+        - {x: 14, y: 14}
+    - name: 34x34icons_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -12}
+        - {x: -13, y: -14}
+        - {x: 4, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 14}
+    - name: 34x34icons_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -8, y: 6}
+        - {x: -10, y: -1}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 16, y: -6}
+        - {x: 16, y: 14}
+    - name: 34x34icons_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 14}
+        - {x: -10, y: 3}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -9}
+        - {x: 16, y: 14}
+    - name: 34x34icons_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 5, y: -14}
+        - {x: 14, y: -5}
+        - {x: 14, y: 14}
+    - name: 34x34icons_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 2, y: -14}
+        - {x: 11, y: -5}
+        - {x: 14, y: 6}
+        - {x: 14, y: 14}
+    - name: 34x34icons_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 14}
+        - {x: -6, y: 14}
+        - {x: -14, y: 3}
+        - {x: -14, y: -14}
+        - {x: 5, y: -14}
+        - {x: 14, y: -2}
+        - {x: 14, y: 12}
+    - name: 34x34icons_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -14}
+        - {x: 8, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: 34x34icons_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -12, y: 0}
+        - {x: -13, y: -3}
+        - {x: -13, y: -11}
+        - {x: -11, y: -12}
+        - {x: -1, y: -12}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 9, y: 11}
+    - name: 34x34icons_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -12, y: 0}
+        - {x: -13, y: -3}
+        - {x: -13, y: -11}
+        - {x: -11, y: -12}
+        - {x: -1, y: -12}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+        - {x: 9, y: 11}
+    - name: 34x34icons_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: 5, y: 13}
+        - {x: 0, y: 11}
+        - {x: -13, y: 2}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -11, y: -13}
+        - {x: -8, y: -13}
+        - {x: 9, y: -1}
+        - {x: 14, y: 4}
+        - {x: 14, y: 9}
+    - name: 34x34icons_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -8}
+        - {x: -7, y: -11}
+        - {x: 2, y: -11}
+        - {x: 10, y: -7}
+        - {x: 10, y: 6}
+        - {x: 8, y: 10}
+        - {x: -6, y: 10}
+        - {x: -11, y: 5}
+    - name: 34x34icons_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -10, y: 4}
+        - {x: -10, y: -9}
+        - {x: -3, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 4}
+        - {x: 4, y: 11}
+    - name: 34x34icons_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: 0}
+        - {x: -8, y: -9}
+        - {x: -3, y: -11}
+        - {x: 5, y: -11}
+        - {x: 13, y: -2}
+        - {x: 13, y: 6}
+        - {x: 5, y: 11}
+    - name: mercenary_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 11}
+        - {x: -2, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: -4}
+        - {x: -6, y: -11}
+        - {x: 5, y: -11}
+        - {x: 13, y: -5}
+        - {x: 13, y: 3}
+    - name: 34x34icons_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: -4, y: -13}
+        - {x: 8, y: -13}
+        - {x: 8, y: 10}
+        - {x: 7, y: 12}
+    - name: 34x34icons_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -3}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: 34x34icons_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: 34x34icons_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: 34x34icons_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 8}
+        - {x: -5, y: 7}
+        - {x: -10, y: 1}
+        - {x: -10, y: -6}
+        - {x: -7, y: -11}
+        - {x: 2, y: -11}
+        - {x: 9, y: -5}
+        - {x: 9, y: 4}
+        - {x: 6, y: 8}
+    - name: 34x34icons_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -10, y: 2}
+        - {x: -10, y: -4}
+        - {x: -4, y: -12}
+        - {x: 3, y: -12}
+        - {x: 9, y: -4}
+        - {x: 9, y: 1}
+        - {x: 6, y: 9}
+    - name: 34x34icons_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -12, y: 9}
+        - {x: -12, y: -11}
+        - {x: -10, y: -14}
+        - {x: 10, y: -14}
+        - {x: 13, y: -7}
+        - {x: 13, y: 4}
+        - {x: 4, y: 14}
+    - name: 34x34icons_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 11}
+        - {x: -10, y: 4}
+        - {x: -10, y: -7}
+        - {x: -4, y: -12}
+        - {x: 6, y: -12}
+        - {x: 11, y: -6}
+        - {x: 11, y: 1}
+        - {x: 2, y: 11}
+    - name: 34x34icons_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -11, y: 5}
+        - {x: -11, y: -7}
+        - {x: -9, y: -10}
+        - {x: -2, y: -13}
+        - {x: 3, y: -13}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 0, y: 12}
+    - name: 34x34icons_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -7, y: 10}
+        - {x: -8, y: 7}
+        - {x: -8, y: -11}
+        - {x: -3, y: -13}
+        - {x: 5, y: -13}
+        - {x: 7, y: -9}
+        - {x: 7, y: 11}
+        - {x: 2, y: 13}
+    - name: 34x34icons_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 11}
+        - {x: -10, y: 11}
+        - {x: -10, y: -10}
+        - {x: -3, y: -13}
+        - {x: 0, y: -13}
+        - {x: 3, y: -12}
+        - {x: 7, y: -10}
+        - {x: 7, y: 6}
+    - name: 34x34icons_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -9, y: 7}
+        - {x: -9, y: -7}
+        - {x: -7, y: -12}
+        - {x: 6, y: -12}
+        - {x: 10, y: -7}
+        - {x: 10, y: 2}
+        - {x: 7, y: 11}
+    - name: 34x34icons_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -3}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -13, y: 6}
+        - {x: -13, y: -12}
+        - {x: -7, y: -13}
+        - {x: 7, y: -13}
+        - {x: 12, y: -9}
+        - {x: 12, y: 3}
+        - {x: 9, y: 11}
+    - name: 34x34icons_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -11, y: -1}
+        - {x: 0, y: -12}
+        - {x: 9, y: -12}
+        - {x: 9, y: -3}
+        - {x: 0, y: 12}
+    - name: 34x34icons_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -4}
+        - {x: -8, y: -10}
+        - {x: 7, y: -10}
+        - {x: 10, y: -4}
+        - {x: 10, y: 5}
+        - {x: 7, y: 9}
+    - name: 34x34icons_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -7, y: 10}
+        - {x: -7, y: -9}
+        - {x: -6, y: -13}
+        - {x: 1, y: -13}
+        - {x: 7, y: -8}
+        - {x: 7, y: 7}
+        - {x: 2, y: 12}
+    - name: gold2_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 6}
+        - {x: -13, y: -13}
+        - {x: 12, y: -13}
+        - {x: 12, y: 5}
+        - {x: 3, y: 13}
+    - name: gold_treasure_box
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -11, y: 4}
+        - {x: -11, y: -7}
+        - {x: -5, y: -12}
+        - {x: 5, y: -12}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+        - {x: 8, y: 9}
+    - name: 34x34icons_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -10, y: -11}
+        - {x: 8, y: -11}
+        - {x: 12, y: -2}
+        - {x: 12, y: 9}
+        - {x: 9, y: 11}
+    - name: 34x34icons_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -13, y: 3}
+        - {x: -13, y: -10}
+        - {x: -8, y: -12}
+        - {x: 11, y: -12}
+        - {x: 13, y: -6}
+        - {x: 13, y: 5}
+        - {x: 9, y: 10}
+    - name: 34x34icons_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -3}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: 34x34icons_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: 34x34icons_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 14}
+    - name: 34x34icons_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -13}
+        - {x: 3, y: -13}
+        - {x: 13, y: -6}
+        - {x: 13, y: 5}
+        - {x: 7, y: 12}
+    - name: 34x34icons_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -7, y: -11}
+        - {x: 13, y: -11}
+        - {x: 13, y: 6}
+        - {x: 12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -12, y: 1}
+    - name: 34x34icons_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -12, y: 1}
+        - {x: -12, y: -11}
+        - {x: -9, y: -13}
+        - {x: 10, y: -13}
+        - {x: 11, y: -10}
+        - {x: 11, y: 3}
+        - {x: 3, y: 9}
+    - name: 34x34icons_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -8}
+        - {x: -3, y: -13}
+        - {x: 5, y: -13}
+        - {x: 13, y: -7}
+        - {x: 13, y: 6}
+        - {x: 6, y: 12}
+    - name: 34x34icons_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -10, y: 14}
+        - {x: -13, y: 5}
+        - {x: -13, y: -13}
+        - {x: 7, y: -13}
+        - {x: 12, y: -8}
+        - {x: 13, y: -2}
+        - {x: 13, y: 4}
+    - name: 34x34icons_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 1}
+        - {x: -14, y: -6}
+        - {x: 0, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: 4}
+        - {x: 4, y: 7}
+        - {x: -6, y: 7}
+        - {x: -12, y: 3}
+    - name: 34x34icons_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: -10, y: -11}
+        - {x: -9, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 7}
+        - {x: 10, y: 9}
+        - {x: 6, y: 13}
+        - {x: -3, y: 13}
+        - {x: -6, y: 12}
+    - name: 34x34icons_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: -10, y: -11}
+        - {x: -9, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 7}
+        - {x: 10, y: 9}
+        - {x: 6, y: 13}
+        - {x: -3, y: 13}
+        - {x: -6, y: 12}
+    - name: 34x34icons_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 10}
+        - {x: -14, y: -3}
+        - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 14, y: -9}
+        - {x: 14, y: 12}
+    - name: 34x34icons_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -8}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -10, y: -3}
+        - {x: -10, y: -12}
+        - {x: -8, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: -7, y: 14}
+    - name: 34x34icons_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    - name: 34x34icons_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 13, y: -11}
+        - {x: 14, y: 8}
+        - {x: 14, y: 12}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

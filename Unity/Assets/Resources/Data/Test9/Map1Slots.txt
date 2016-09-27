@@ -1,0 +1,31 @@
+{"resultCode":1,"resultContent":[	
+	{
+		"id": 11,
+		"gameType": 101,
+		"slotIds": [0,0]
+	},{
+		"id": 13,
+		"gameType": 102,
+		"slotIds": [1,2]
+	},{
+		"id": 14,
+		"gameType": 103,
+		"slotIds": [1,1]
+	},{
+		"id": 16,
+		"gameType": 104,
+		"slotIds": [2,2]
+	},{
+		"id": 17,
+		"gameType": 105,
+		"slotIds": [2,1]
+	},{
+		"id": 18,
+		"gameType": 102,
+		"slotIds": [0,2]
+	},{
+		"id": 19,
+		"gameType": 106,
+		"slotIds": [2,0]
+	}
+]}

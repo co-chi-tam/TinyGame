@@ -1,0 +1,52 @@
+﻿{"resultCode":1,"resultContent":[
+	{
+		"id": "501",
+		"name": "MeleeSkill",
+		"modelPath": "Prefabs/Test9/MeleeSkill",
+		"FSMPath": "Data/Test9/FSM/DynamicSkillFSM",
+		"skillType": 2,
+		"skillEffect": 1,
+		"skillCostMana": 0,
+		"skillCostHealth": 0,
+		"skillCostRage": 0,
+		"skillValue": 0,
+		"skillRange": [[0,0]]
+	},{
+		"id": "502",
+		"name": "RangeSkill",
+		"modelPath": "Prefabs/Test9/RangeSkill",
+		"FSMPath": "Data/Test9/FSM/DynamicSkillFSM",
+		"skillType": 2,
+		"skillEffect": 1,
+		"skillCostMana": 0,
+		"skillCostHealth": 0,
+		"skillCostRage": 0,
+		"skillValue": 0,
+		"skillRange": [[0,0]]
+	},{
+		"id": "503",
+		"name": "FireBallSkill",
+		"modelPath": "Prefabs/Test9/FireBallSkill",
+		"FSMPath": "Data/Test9/FSM/DynamicSkillFSM",
+		"skillType": 2,
+		"skillEffect": 1,
+		"skillCostMana": 0,
+		"skillCostHealth": 0,
+		"skillCostRage": 0,
+		"skillValue": 0,
+		"skillRange": [[0,0],[1,0]]
+	},{
+		"id": "504",
+		"name": "ThunderSkill",
+		"modelPath": "Prefabs/Test9/ThunderSkill",
+		"FSMPath": "Data/Test9/FSM/StaticSkillFSM",
+		"skillType": 2,
+		"skillEffect": 1,
+		"skillCostMana": 0,
+		"skillCostHealth": 0,
+		"skillCostRage": 0,
+		"skillValue": 0,
+		"skillRange": [[0,0]]
+	}
+]
+}

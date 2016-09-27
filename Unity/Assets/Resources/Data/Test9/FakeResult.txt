@@ -1,0 +1,12 @@
+﻿{"resultCode":1,"resultContent":[{
+	"id": 1,
+	"winner": 2,
+	"turns": [
+		{
+			"id": 0,
+			"attacker": 0,
+			"target": 8,
+			"skills":[501]
+		}
+	]
+}]}

@@ -1,0 +1,193 @@
+﻿{
+  "resultCode": 1,
+  "resultContent": [
+    {
+      "displayImage": "Map1",
+      "id": "1001",
+      "name": "Map 1",
+      "slots": [
+        {
+          "id": 11,
+          "gameType": 101,
+          "slotIds": [
+            1,
+            0
+          ]
+        },
+        {
+          "id": 13,
+          "gameType": 102,
+          "slotIds": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 14,
+          "gameType": 103,
+          "slotIds": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": 16,
+          "gameType": 106,
+          "slotIds": [
+            2,
+            2
+          ]
+        },
+        {
+          "id": 17,
+          "gameType": 105,
+          "slotIds": [
+            2,
+            1
+          ]
+        },
+        {
+          "id": 19,
+          "gameType": 102,
+          "slotIds": [
+            2,
+            0
+          ]
+        },
+        {
+          "id": 20,
+          "gameType": 104,
+          "slotIds": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sodiers": [
+        {
+          "attackRange": 0.01,
+          "attackSpeed": 2,
+          "avatar": "sodier_avatar",
+          "currentHealth": 120,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 40,
+          "defend": 5,
+          "id": "104",
+          "maxHealth": 120,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/GrayBurrower",
+          "moveSpeed": 1,
+          "name": "GrayBurrower",
+          "skillSlots": [
+            501
+          ]
+        },
+        {
+          "attackRange": 1,
+          "attackSpeed": 1,
+          "avatar": "sodier_avatar",
+          "currentHealth": 80,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 50,
+          "defend": 5,
+          "id": "106",
+          "maxHealth": 80,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/RedMagician",
+          "moveSpeed": 1,
+          "name": "RedMagician",
+          "skillSlots": [
+            502
+          ]
+        },
+        {
+          "attackRange": 1,
+          "attackSpeed": 1,
+          "avatar": "sodier_avatar",
+          "currentHealth": 90,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 50,
+          "defend": 5,
+          "id": "103",
+          "level": 1,
+          "maxHealth": 90,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/BluePhantom",
+          "moveSpeed": 1,
+          "name": "BluePhantom",
+          "skillSlots": [
+            502
+          ]
+        },
+        {
+          "attackRange": 1,
+          "attackSpeed": 1,
+          "avatar": "sodier_avatar",
+          "currentHealth": 80,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 20,
+          "defend": 5,
+          "id": "105",
+          "maxHealth": 80,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/RedHealer",
+          "moveSpeed": 1,
+          "name": "RedHealer",
+          "skillSlots": [
+            502
+          ]
+        },
+        {
+          "attackRange": 0.01,
+          "attackSpeed": 1,
+          "avatar": "sodier_avatar",
+          "currentHealth": 100,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 30,
+          "defend": 5,
+          "id": "101",
+          "level": 1,
+          "maxHealth": 100,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/RedSodier",
+          "moveSpeed": 1,
+          "name": "RedSodier",
+          "skillSlots": [
+            501
+          ]
+        },
+        {
+          "attackRange": 0.01,
+          "attackSpeed": 1,
+          "avatar": "sodier_avatar",
+          "currentHealth": 100,
+          "currentMana": 0,
+          "currentRage": 0,
+          "damage": 30,
+          "defend": 5,
+          "id": "102",
+          "level": 1,
+          "maxHealth": 100,
+          "maxMana": 100,
+          "maxRage": 100,
+          "modelPath": "Prefabs/Test9/BlueSodier",
+          "moveSpeed": 1,
+          "name": "BlueSodier",
+          "skillSlots": [
+            501
+          ]
+        }
+      ]
+    }
+  ]
+}

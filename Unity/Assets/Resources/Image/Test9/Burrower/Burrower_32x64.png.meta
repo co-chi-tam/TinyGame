@@ -1,0 +1,4527 @@
+fileFormatVersion: 2
+guid: 36dd9ec76ed3f7740a2377bbd7688ebe
+timeCreated: 1471235470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Burrower_32x64_0
+    21300002: Burrower_32x64_1
+    21300004: Burrower_32x64_2
+    21300006: Burrower_32x64_3
+    21300008: Burrower_32x64_4
+    21300010: Burrower_32x64_5
+    21300012: gray_burrower_avatar
+    21300014: Burrower_32x64_7
+    21300016: Burrower_32x64_8
+    21300018: Burrower_32x64_9
+    21300020: Burrower_32x64_10
+    21300022: Burrower_32x64_11
+    21300024: Burrower_32x64_12
+    21300026: Burrower_32x64_13
+    21300028: Burrower_32x64_14
+    21300030: Burrower_32x64_15
+    21300032: Burrower_32x64_16
+    21300034: Burrower_32x64_17
+    21300036: Burrower_32x64_18
+    21300038: Burrower_32x64_19
+    21300040: Burrower_32x64_20
+    21300042: Burrower_32x64_21
+    21300044: Burrower_32x64_22
+    21300046: Burrower_32x64_23
+    21300048: Burrower_32x64_24
+    21300050: Burrower_32x64_25
+    21300052: Burrower_32x64_26
+    21300054: Burrower_32x64_27
+    21300056: Burrower_32x64_28
+    21300058: Burrower_32x64_29
+    21300060: Burrower_32x64_30
+    21300062: Burrower_32x64_31
+    21300064: Burrower_32x64_32
+    21300066: Burrower_32x64_33
+    21300068: Burrower_32x64_34
+    21300070: Burrower_32x64_35
+    21300072: Burrower_32x64_36
+    21300074: Burrower_32x64_37
+    21300076: Burrower_32x64_38
+    21300078: Burrower_32x64_39
+    21300080: Burrower_32x64_40
+    21300082: Burrower_32x64_41
+    21300084: Burrower_32x64_42
+    21300086: Burrower_32x64_43
+    21300088: Burrower_32x64_44
+    21300090: Burrower_32x64_45
+    21300092: Burrower_32x64_46
+    21300094: Burrower_32x64_47
+    21300096: Burrower_32x64_48
+    21300098: Burrower_32x64_49
+    21300100: Burrower_32x64_50
+    21300102: Burrower_32x64_51
+    21300104: Burrower_32x64_52
+    21300106: Burrower_32x64_53
+    21300108: Burrower_32x64_54
+    21300110: Burrower_32x64_55
+    21300112: Burrower_32x64_56
+    21300114: Burrower_32x64_57
+    21300116: Burrower_32x64_58
+    21300118: Burrower_32x64_59
+    21300120: Burrower_32x64_60
+    21300122: Burrower_32x64_61
+    21300124: Burrower_32x64_62
+    21300126: Burrower_32x64_63
+    21300128: Burrower_32x64_64
+    21300130: Burrower_32x64_65
+    21300132: Burrower_32x64_66
+    21300134: Burrower_32x64_67
+    21300136: Burrower_32x64_68
+    21300138: Burrower_32x64_69
+    21300140: Burrower_32x64_70
+    21300142: Burrower_32x64_71
+    21300144: Burrower_32x64_72
+    21300146: Burrower_32x64_73
+    21300148: Burrower_32x64_74
+    21300150: Burrower_32x64_75
+    21300152: Burrower_32x64_76
+    21300154: Burrower_32x64_77
+    21300156: Burrower_32x64_78
+    21300158: Burrower_32x64_79
+    21300160: Burrower_32x64_80
+    21300162: Burrower_32x64_81
+    21300164: Burrower_32x64_82
+    21300166: Burrower_32x64_83
+    21300168: Burrower_32x64_84
+    21300170: Burrower_32x64_85
+    21300172: Burrower_32x64_86
+    21300174: Burrower_32x64_87
+    21300176: Burrower_32x64_88
+    21300178: Burrower_32x64_89
+    21300180: Burrower_32x64_90
+    21300182: Burrower_32x64_91
+    21300184: Burrower_32x64_92
+    21300186: Burrower_32x64_93
+    21300188: Burrower_32x64_94
+    21300190: Burrower_32x64_95
+    21300192: Burrower_32x64_96
+    21300194: Burrower_32x64_97
+    21300196: Burrower_32x64_98
+    21300198: Burrower_32x64_99
+    21300200: Burrower_32x64_100
+    21300202: Burrower_32x64_101
+    21300204: Burrower_32x64_102
+    21300206: Burrower_32x64_103
+    21300208: Burrower_32x64_104
+    21300210: Burrower_32x64_105
+    21300212: Burrower_32x64_106
+    21300214: Burrower_32x64_107
+    21300216: Burrower_32x64_108
+    21300218: Burrower_32x64_109
+    21300220: Burrower_32x64_110
+    21300222: Burrower_32x64_111
+    21300224: Burrower_32x64_112
+    21300226: Burrower_32x64_113
+    21300228: Burrower_32x64_114
+    21300230: Burrower_32x64_115
+    21300232: Burrower_32x64_116
+    21300234: Burrower_32x64_117
+    21300236: Burrower_32x64_118
+    21300238: Burrower_32x64_119
+    21300240: Burrower_32x64_120
+    21300242: Burrower_32x64_121
+    21300244: Burrower_32x64_122
+    21300246: Burrower_32x64_123
+    21300248: Burrower_32x64_124
+    21300250: Burrower_32x64_125
+    21300252: Burrower_32x64_126
+    21300254: Burrower_32x64_127
+    21300256: Burrower_32x64_128
+    21300258: Burrower_32x64_129
+    21300260: Burrower_32x64_130
+    21300262: Burrower_32x64_131
+    21300264: Burrower_32x64_132
+    21300266: Burrower_32x64_133
+    21300268: Burrower_32x64_134
+    21300270: Burrower_32x64_135
+    21300272: Burrower_32x64_136
+    21300274: Burrower_32x64_137
+    21300276: Burrower_32x64_138
+    21300278: Burrower_32x64_139
+    21300280: Burrower_32x64_140
+    21300282: Burrower_32x64_141
+    21300284: Burrower_32x64_142
+    21300286: Burrower_32x64_143
+    21300288: Burrower_32x64_144
+    21300290: Burrower_32x64_145
+    21300292: Burrower_32x64_146
+    21300294: Burrower_32x64_147
+    21300296: Burrower_32x64_148
+    21300298: Burrower_32x64_149
+    21300300: Burrower_32x64_150
+    21300302: Burrower_32x64_151
+    21300304: Burrower_32x64_152
+    21300306: Burrower_32x64_153
+    21300308: Burrower_32x64_154
+    21300310: Burrower_32x64_155
+    21300312: Burrower_32x64_156
+    21300314: Burrower_32x64_157
+    21300316: Burrower_32x64_158
+    21300318: Burrower_32x64_159
+    21300320: Burrower_32x64_160
+    21300322: Burrower_32x64_161
+    21300324: Burrower_32x64_162
+    21300326: Burrower_32x64_163
+    21300328: Burrower_32x64_164
+    21300330: Burrower_32x64_165
+    21300332: Burrower_32x64_166
+    21300334: Burrower_32x64_167
+    21300336: Burrower_32x64_168
+    21300338: Burrower_32x64_169
+    21300340: Burrower_32x64_170
+    21300342: Burrower_32x64_171
+    21300344: Burrower_32x64_172
+    21300346: Burrower_32x64_173
+    21300348: Burrower_32x64_174
+    21300350: Burrower_32x64_175
+    21300352: Burrower_32x64_176
+    21300354: Burrower_32x64_177
+    21300356: Burrower_32x64_178
+    21300358: Burrower_32x64_179
+    21300360: Burrower_32x64_180
+    21300362: Burrower_32x64_181
+    21300364: Burrower_32x64_182
+    21300366: Burrower_32x64_183
+    21300368: Burrower_32x64_184
+    21300370: Burrower_32x64_185
+    21300372: Burrower_32x64_186
+    21300374: Burrower_32x64_187
+    21300376: Burrower_32x64_188
+    21300378: Burrower_32x64_189
+    21300380: Burrower_32x64_190
+    21300382: Burrower_32x64_191
+    21300384: Burrower_32x64_192
+    21300386: Burrower_32x64_193
+    21300388: Burrower_32x64_194
+    21300390: Burrower_32x64_195
+    21300392: Burrower_32x64_196
+    21300394: Burrower_32x64_197
+    21300396: Burrower_32x64_198
+    21300398: Burrower_32x64_199
+    21300400: Burrower_32x64_200
+    21300402: Burrower_32x64_201
+    21300404: Burrower_32x64_202
+    21300406: Burrower_32x64_203
+    21300408: Burrower_32x64_204
+    21300410: Burrower_32x64_205
+    21300412: Burrower_32x64_206
+    21300414: Burrower_32x64_207
+    21300416: Burrower_32x64_208
+    21300418: Burrower_32x64_209
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Burrower_32x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 11}
+        - {x: -12, y: 11}
+        - {x: -16, y: 3}
+        - {x: -16, y: -21}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 0}
+        - {x: 15, y: 9}
+    - name: Burrower_32x64_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -8, y: 19}
+        - {x: -11, y: 13}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -6, y: 20}
+        - {x: -11, y: 13}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 13, y: -31}
+        - {x: 14, y: -29}
+        - {x: 16, y: -13}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -4}
+        - {x: 7, y: 2}
+        - {x: 5, y: 4}
+        - {x: 14, y: 11}
+        - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 1, y: 12}
+        - {x: 4, y: 14}
+        - {x: 6, y: 16}
+        - {x: 5, y: 19}
+        - {x: -3, y: 19}
+        - {x: -9, y: 17}
+        - {x: -16, y: 12}
+        - {x: -16, y: -28}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -15}
+    - name: Burrower_32x64_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -14, y: 9}
+        - {x: -16, y: 8}
+        - {x: -16, y: -26}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -10}
+        - {x: 9, y: 5}
+    - name: Burrower_32x64_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -25}
+        - {x: -13, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: -2}
+        - {x: 12, y: 8}
+        - {x: 3, y: 10}
+        - {x: -14, y: 10}
+        - {x: -16, y: 5}
+    - name: gray_burrower_avatar
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 11}
+        - {x: -12, y: 11}
+        - {x: -16, y: 3}
+        - {x: -16, y: -21}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 0}
+        - {x: 15, y: 9}
+    - name: Burrower_32x64_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -8, y: 19}
+        - {x: -11, y: 13}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -6, y: 20}
+        - {x: -11, y: 13}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 13, y: -31}
+        - {x: 14, y: -29}
+        - {x: 16, y: -13}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -4}
+        - {x: 7, y: 2}
+        - {x: 5, y: 4}
+        - {x: 14, y: 11}
+        - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 1, y: 12}
+        - {x: 4, y: 14}
+        - {x: 6, y: 16}
+        - {x: 5, y: 19}
+        - {x: -3, y: 19}
+        - {x: -9, y: 17}
+        - {x: -16, y: 12}
+        - {x: -16, y: -28}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -15}
+    - name: Burrower_32x64_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -14, y: 9}
+        - {x: -16, y: 8}
+        - {x: -16, y: -26}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -10}
+        - {x: 9, y: 5}
+    - name: Burrower_32x64_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -25}
+        - {x: -13, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: -2}
+        - {x: 12, y: 8}
+        - {x: 3, y: 10}
+        - {x: -14, y: 10}
+        - {x: -16, y: 5}
+    - name: Burrower_32x64_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 11}
+        - {x: -12, y: 11}
+        - {x: -16, y: 3}
+        - {x: -16, y: -21}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 0}
+        - {x: 15, y: 9}
+    - name: Burrower_32x64_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -8, y: 19}
+        - {x: -11, y: 13}
+        - {x: -11, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -21}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -6, y: 20}
+        - {x: -11, y: 13}
+        - {x: -11, y: -30}
+        - {x: -7, y: -31}
+        - {x: 13, y: -31}
+        - {x: 14, y: -29}
+        - {x: 16, y: -13}
+        - {x: 16, y: 17}
+    - name: Burrower_32x64_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -4}
+        - {x: 7, y: 2}
+        - {x: 5, y: 4}
+        - {x: 14, y: 11}
+        - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 1, y: 12}
+        - {x: 4, y: 14}
+        - {x: 6, y: 16}
+        - {x: 5, y: 19}
+        - {x: -2, y: 19}
+        - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -15}
+    - name: Burrower_32x64_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -14, y: 9}
+        - {x: -16, y: 8}
+        - {x: -16, y: -26}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 14, y: -10}
+        - {x: 9, y: 5}
+    - name: Burrower_32x64_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 715
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -25}
+        - {x: -13, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: -2}
+        - {x: 12, y: 8}
+        - {x: 3, y: 10}
+        - {x: -14, y: 10}
+        - {x: -16, y: 5}
+    - name: Burrower_32x64_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -31}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 8}
+        - {x: -12, y: 8}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 13}
+        - {x: 15, y: 14}
+        - {x: 7, y: 14}
+        - {x: -2, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: -31}
+        - {x: -8, y: -32}
+        - {x: 6, y: -32}
+        - {x: 12, y: -30}
+        - {x: 15, y: -25}
+        - {x: 16, y: -20}
+    - name: Burrower_32x64_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+    - name: Burrower_32x64_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 13}
+    - name: Burrower_32x64_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 0, y: -32}
+        - {x: 13, y: -31}
+        - {x: 15, y: -25}
+        - {x: 15, y: -9}
+        - {x: 10, y: 7}
+    - name: Burrower_32x64_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -15, y: 4}
+        - {x: -16, y: -1}
+        - {x: -16, y: -29}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 0}
+        - {x: 13, y: 9}
+    - name: Burrower_32x64_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -31}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 8}
+        - {x: -12, y: 8}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 13}
+        - {x: 15, y: 14}
+        - {x: 7, y: 14}
+        - {x: -2, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: -31}
+        - {x: -8, y: -32}
+        - {x: 6, y: -32}
+        - {x: 12, y: -30}
+        - {x: 15, y: -25}
+        - {x: 16, y: -20}
+    - name: Burrower_32x64_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+    - name: Burrower_32x64_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 11}
+        - {x: -16, y: -1}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 1, y: -32}
+        - {x: 6, y: -31}
+        - {x: 13, y: -25}
+        - {x: 13, y: -14}
+        - {x: 8, y: 11}
+    - name: Burrower_32x64_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: -1}
+        - {x: 12, y: 5}
+        - {x: -8, y: 5}
+        - {x: -16, y: -1}
+    - name: Burrower_32x64_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -15, y: 4}
+        - {x: -16, y: -1}
+        - {x: -16, y: -29}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 0}
+        - {x: 13, y: 9}
+    - name: Burrower_32x64_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -31}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 8}
+        - {x: -12, y: 8}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 13}
+        - {x: 15, y: 14}
+        - {x: 7, y: 14}
+        - {x: -2, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: -31}
+        - {x: -8, y: -32}
+        - {x: 6, y: -32}
+        - {x: 12, y: -30}
+        - {x: 15, y: -25}
+        - {x: 16, y: -20}
+    - name: Burrower_32x64_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 15}
+    - name: Burrower_32x64_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 8}
+        - {x: -16, y: 1}
+        - {x: -16, y: -27}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 4}
+        - {x: 9, y: 12}
+    - name: Burrower_32x64_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 0, y: -32}
+        - {x: 13, y: -31}
+        - {x: 15, y: -25}
+        - {x: 15, y: -9}
+        - {x: 10, y: 7}
+    - name: Burrower_32x64_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 650
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -15, y: 4}
+        - {x: -16, y: -1}
+        - {x: -16, y: -29}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 0}
+        - {x: 13, y: 9}
+    - name: Burrower_32x64_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: 6, y: 19}
+        - {x: -5, y: 19}
+        - {x: -16, y: 10}
+        - {x: -16, y: -29}
+        - {x: -13, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 8}
+        - {x: 15, y: 11}
+      - - {x: -10, y: 12}
+        - {x: -7, y: 13}
+        - {x: -7, y: 16}
+        - {x: -10, y: 17}
+        - {x: -12, y: 15}
+    - name: Burrower_32x64_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -15, y: 11}
+        - {x: -16, y: 5}
+        - {x: -16, y: -13}
+        - {x: -12, y: -28}
+        - {x: -6, y: -31}
+        - {x: 14, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: 5, y: 20}
+    - name: Burrower_32x64_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -22}
+        - {x: 16, y: 16}
+    - name: Burrower_32x64_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -15, y: 1}
+        - {x: -15, y: -22}
+        - {x: -9, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 12}
+        - {x: 12, y: 13}
+    - name: Burrower_32x64_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1}
+        - {x: -16, y: -18}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -11}
+        - {x: 14, y: -6}
+        - {x: 10, y: 1}
+      - - {x: -7, y: -6}
+        - {x: -4, y: -5}
+        - {x: -4, y: -2}
+        - {x: -7, y: -1}
+        - {x: -9, y: -3}
+      - - {x: 7, y: 0}
+        - {x: 9, y: -2}
+        - {x: 12, y: -1}
+        - {x: 12, y: 2}
+        - {x: 10, y: 4}
+        - {x: 7, y: 3}
+    - name: Burrower_32x64_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -14}
+        - {x: 13, y: -7}
+        - {x: -7, y: -7}
+        - {x: -16, y: -21}
+    - name: Burrower_32x64_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: 6, y: 19}
+        - {x: -5, y: 19}
+        - {x: -16, y: 10}
+        - {x: -16, y: -29}
+        - {x: -13, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 8}
+        - {x: 15, y: 11}
+      - - {x: -10, y: 12}
+        - {x: -7, y: 13}
+        - {x: -7, y: 16}
+        - {x: -10, y: 17}
+        - {x: -12, y: 15}
+    - name: Burrower_32x64_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -15, y: 11}
+        - {x: -16, y: 5}
+        - {x: -16, y: -13}
+        - {x: -12, y: -28}
+        - {x: -6, y: -31}
+        - {x: 14, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: 5, y: 20}
+    - name: Burrower_32x64_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -22}
+        - {x: 16, y: 16}
+    - name: Burrower_32x64_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -15, y: 1}
+        - {x: -15, y: -22}
+        - {x: -9, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 12}
+        - {x: 12, y: 13}
+    - name: Burrower_32x64_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1}
+        - {x: -16, y: -18}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -11}
+        - {x: 14, y: -6}
+        - {x: 10, y: 1}
+      - - {x: -7, y: -6}
+        - {x: -4, y: -5}
+        - {x: -4, y: -2}
+        - {x: -7, y: -1}
+        - {x: -9, y: -3}
+      - - {x: 7, y: 0}
+        - {x: 9, y: -2}
+        - {x: 12, y: -1}
+        - {x: 12, y: 2}
+        - {x: 10, y: 4}
+        - {x: 7, y: 3}
+    - name: Burrower_32x64_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -14}
+        - {x: 13, y: -7}
+        - {x: -7, y: -7}
+        - {x: -16, y: -21}
+    - name: Burrower_32x64_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 18}
+        - {x: 6, y: 19}
+        - {x: -5, y: 19}
+        - {x: -16, y: 10}
+        - {x: -16, y: -29}
+        - {x: -13, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 8}
+        - {x: 15, y: 11}
+      - - {x: -10, y: 12}
+        - {x: -7, y: 13}
+        - {x: -7, y: 16}
+        - {x: -10, y: 17}
+        - {x: -12, y: 15}
+    - name: Burrower_32x64_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -15, y: 11}
+        - {x: -16, y: 5}
+        - {x: -16, y: -13}
+        - {x: -12, y: -28}
+        - {x: -6, y: -31}
+        - {x: 14, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: 5, y: 20}
+    - name: Burrower_32x64_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -22}
+        - {x: 16, y: 16}
+    - name: Burrower_32x64_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -15, y: 1}
+        - {x: -15, y: -22}
+        - {x: -9, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 12}
+        - {x: 12, y: 13}
+    - name: Burrower_32x64_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1}
+        - {x: -16, y: -18}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -11}
+        - {x: 14, y: -6}
+        - {x: 10, y: 1}
+      - - {x: -7, y: -6}
+        - {x: -4, y: -5}
+        - {x: -4, y: -2}
+        - {x: -7, y: -1}
+        - {x: -9, y: -3}
+      - - {x: 7, y: 0}
+        - {x: 9, y: -2}
+        - {x: 12, y: -1}
+        - {x: 12, y: 2}
+        - {x: 10, y: 4}
+        - {x: 7, y: 3}
+    - name: Burrower_32x64_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 585
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -14}
+        - {x: 13, y: -7}
+        - {x: -7, y: -7}
+        - {x: -16, y: -21}
+    - name: Burrower_32x64_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -15, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 1}
+        - {x: 15, y: 7}
+        - {x: 5, y: 13}
+        - {x: -11, y: 13}
+        - {x: -16, y: 8}
+    - name: Burrower_32x64_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30}
+        - {x: -15, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 3}
+        - {x: 15, y: 7}
+        - {x: 3, y: 15}
+        - {x: -6, y: 15}
+        - {x: -16, y: 7}
+    - name: Burrower_32x64_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -22}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -16, y: 5}
+        - {x: -16, y: -23}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 9, y: 13}
+    - name: Burrower_32x64_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: -1}
+        - {x: 14, y: 8}
+        - {x: 6, y: 11}
+    - name: Burrower_32x64_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -30}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: -1}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -15, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 1}
+        - {x: 15, y: 7}
+        - {x: 5, y: 13}
+        - {x: -11, y: 13}
+        - {x: -16, y: 8}
+    - name: Burrower_32x64_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30}
+        - {x: -15, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 3}
+        - {x: 15, y: 7}
+        - {x: 3, y: 15}
+        - {x: -6, y: 15}
+        - {x: -16, y: 7}
+    - name: Burrower_32x64_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -22}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -16, y: 5}
+        - {x: -16, y: -23}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 9, y: 13}
+    - name: Burrower_32x64_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: -1}
+        - {x: 14, y: 8}
+        - {x: 6, y: 11}
+    - name: Burrower_32x64_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -30}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: -1}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -29}
+        - {x: -15, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 1}
+        - {x: 15, y: 7}
+        - {x: 5, y: 13}
+        - {x: -11, y: 13}
+        - {x: -16, y: 8}
+    - name: Burrower_32x64_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -30}
+        - {x: -15, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 3}
+        - {x: 15, y: 7}
+        - {x: 3, y: 15}
+        - {x: -6, y: 15}
+        - {x: -16, y: 7}
+    - name: Burrower_32x64_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -22}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -16, y: 5}
+        - {x: -16, y: -23}
+        - {x: -9, y: -31}
+        - {x: 10, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 9, y: 13}
+    - name: Burrower_32x64_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: -1}
+        - {x: 14, y: 8}
+        - {x: 6, y: 11}
+    - name: Burrower_32x64_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 520
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: 2}
+        - {x: -16, y: -30}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: -1}
+        - {x: 14, y: 8}
+    - name: Burrower_32x64_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 1}
+        - {x: 14, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 6, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 12}
+    - name: Burrower_32x64_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -16, y: -9}
+        - {x: -16, y: -27}
+        - {x: -13, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -26}
+        - {x: 14, y: -2}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 11}
+        - {x: -5, y: 10}
+        - {x: -13, y: 4}
+        - {x: -16, y: -11}
+        - {x: -16, y: -27}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -10}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -14, y: 3}
+        - {x: -16, y: -8}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: -10}
+        - {x: 12, y: 9}
+    - name: Burrower_32x64_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -14, y: 4}
+        - {x: -16, y: -12}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 10, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: -10}
+        - {x: 11, y: 10}
+    - name: Burrower_32x64_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 1}
+        - {x: 14, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 6, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 12}
+    - name: Burrower_32x64_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -16, y: -9}
+        - {x: -16, y: -27}
+        - {x: -13, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -26}
+        - {x: 14, y: -2}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 11}
+        - {x: -5, y: 10}
+        - {x: -13, y: 4}
+        - {x: -16, y: -11}
+        - {x: -16, y: -27}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -10}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -14, y: 3}
+        - {x: -16, y: -8}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: -10}
+        - {x: 12, y: 9}
+    - name: Burrower_32x64_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -14, y: 4}
+        - {x: -16, y: -12}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 10, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: -10}
+        - {x: 11, y: 10}
+    - name: Burrower_32x64_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 1}
+        - {x: 14, y: 11}
+        - {x: -11, y: 11}
+        - {x: -16, y: -3}
+    - name: Burrower_32x64_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 10}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 6, y: -31}
+        - {x: 15, y: -30}
+        - {x: 15, y: 12}
+    - name: Burrower_32x64_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -16, y: -9}
+        - {x: -16, y: -27}
+        - {x: -13, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -26}
+        - {x: 14, y: -2}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_87
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 11}
+        - {x: -5, y: 10}
+        - {x: -13, y: 4}
+        - {x: -16, y: -11}
+        - {x: -16, y: -27}
+        - {x: -11, y: -32}
+        - {x: 6, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -10}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -14, y: 3}
+        - {x: -16, y: -8}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: -10}
+        - {x: 12, y: 9}
+    - name: Burrower_32x64_89
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 455
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -14, y: 4}
+        - {x: -16, y: -12}
+        - {x: -16, y: -28}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 10, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: -10}
+        - {x: 11, y: 10}
+    - name: Burrower_32x64_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 9}
+        - {x: -16, y: 6}
+        - {x: -16, y: -25}
+        - {x: -14, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 4}
+        - {x: 2, y: 9}
+    - name: Burrower_32x64_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -13, y: 8}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -27}
+        - {x: -8, y: -31}
+        - {x: 13, y: -31}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 8, y: 7}
+    - name: Burrower_32x64_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 5}
+        - {x: 1, y: 9}
+    - name: Burrower_32x64_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -14, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -12, y: -31}
+        - {x: 15, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 8, y: 6}
+    - name: Burrower_32x64_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 9}
+        - {x: -16, y: 6}
+        - {x: -16, y: -25}
+        - {x: -14, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 4}
+        - {x: 2, y: 9}
+    - name: Burrower_32x64_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -13, y: 8}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -27}
+        - {x: -8, y: -31}
+        - {x: 13, y: -31}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 8, y: 7}
+    - name: Burrower_32x64_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 5}
+        - {x: 1, y: 9}
+    - name: Burrower_32x64_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -14, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -12, y: -31}
+        - {x: 15, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 8, y: 6}
+    - name: Burrower_32x64_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 9}
+        - {x: -16, y: 6}
+        - {x: -16, y: -25}
+        - {x: -14, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 4}
+        - {x: 2, y: 9}
+    - name: Burrower_32x64_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -13, y: 8}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -27}
+        - {x: -8, y: -31}
+        - {x: 13, y: -31}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 8, y: 7}
+    - name: Burrower_32x64_105
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 7, y: 8}
+    - name: Burrower_32x64_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 5}
+        - {x: 1, y: 9}
+    - name: Burrower_32x64_107
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 390
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -14, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -12, y: -31}
+        - {x: 15, y: -31}
+        - {x: 16, y: -27}
+        - {x: 16, y: -4}
+        - {x: 8, y: 6}
+    - name: Burrower_32x64_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+    - name: Burrower_32x64_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: -11, y: 10}
+        - {x: -16, y: 0}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: -2}
+    - name: Burrower_32x64_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 4}
+        - {x: 13, y: 13}
+    - name: Burrower_32x64_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 5}
+        - {x: -16, y: -27}
+        - {x: -10, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 0}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: 0}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -28}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -28}
+        - {x: 14, y: 2}
+        - {x: 11, y: 15}
+    - name: Burrower_32x64_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+    - name: Burrower_32x64_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: -11, y: 10}
+        - {x: -16, y: 0}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: -2}
+    - name: Burrower_32x64_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 4}
+        - {x: 13, y: 13}
+    - name: Burrower_32x64_117
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 5}
+        - {x: -16, y: -27}
+        - {x: -10, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 0}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_118
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: 0}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -28}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -28}
+        - {x: 14, y: 2}
+        - {x: 11, y: 15}
+    - name: Burrower_32x64_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -16, y: 9}
+        - {x: -16, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+    - name: Burrower_32x64_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: -11, y: 10}
+        - {x: -16, y: 0}
+        - {x: -16, y: -31}
+        - {x: 9, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: -2}
+    - name: Burrower_32x64_122
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -16, y: 8}
+        - {x: -16, y: -31}
+        - {x: 15, y: -31}
+        - {x: 15, y: 4}
+        - {x: 13, y: 13}
+    - name: Burrower_32x64_123
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -16, y: 5}
+        - {x: -16, y: -27}
+        - {x: -10, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: 0}
+        - {x: 12, y: 12}
+    - name: Burrower_32x64_124
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: 0}
+        - {x: 11, y: 11}
+    - name: Burrower_32x64_125
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 325
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -28}
+        - {x: -8, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -28}
+        - {x: 14, y: 2}
+        - {x: 11, y: 15}
+    - name: Burrower_32x64_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: 1, y: 15}
+        - {x: -16, y: 15}
+        - {x: -16, y: -30}
+        - {x: 13, y: -30}
+        - {x: 16, y: -24}
+        - {x: 16, y: 3}
+        - {x: 14, y: 9}
+    - name: Burrower_32x64_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 13}
+        - {x: -2, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -18}
+        - {x: 16, y: 11}
+    - name: Burrower_32x64_129
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 13, y: -1}
+        - {x: -9, y: -1}
+        - {x: -13, y: -10}
+    - name: Burrower_32x64_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -1}
+        - {x: -14, y: -27}
+        - {x: -7, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 9, y: -1}
+    - name: Burrower_32x64_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -8}
+        - {x: -8, y: -10}
+        - {x: -10, y: -19}
+        - {x: -10, y: -25}
+        - {x: -6, y: -30}
+        - {x: 3, y: -30}
+        - {x: 12, y: -27}
+        - {x: 12, y: -21}
+        - {x: 6, y: -9}
+        - {x: 4, y: -8}
+    - name: Burrower_32x64_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_133
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: 1, y: 15}
+        - {x: -16, y: 15}
+        - {x: -16, y: -30}
+        - {x: 13, y: -30}
+        - {x: 16, y: -24}
+        - {x: 16, y: 3}
+        - {x: 14, y: 9}
+    - name: Burrower_32x64_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 13}
+        - {x: -2, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -18}
+        - {x: 16, y: 11}
+    - name: Burrower_32x64_135
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 13, y: -1}
+        - {x: -9, y: -1}
+        - {x: -13, y: -10}
+    - name: Burrower_32x64_136
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -1}
+        - {x: -14, y: -27}
+        - {x: -7, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 9, y: -1}
+    - name: Burrower_32x64_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -8}
+        - {x: -8, y: -10}
+        - {x: -10, y: -19}
+        - {x: -10, y: -25}
+        - {x: -6, y: -30}
+        - {x: 3, y: -30}
+        - {x: 12, y: -27}
+        - {x: 12, y: -21}
+        - {x: 6, y: -9}
+        - {x: 4, y: -8}
+    - name: Burrower_32x64_138
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_139
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: 1, y: 15}
+        - {x: -16, y: 15}
+        - {x: -16, y: -30}
+        - {x: 13, y: -30}
+        - {x: 16, y: -24}
+        - {x: 16, y: 3}
+        - {x: 14, y: 9}
+    - name: Burrower_32x64_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 13}
+        - {x: -2, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -31}
+        - {x: 12, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -18}
+        - {x: 16, y: 11}
+    - name: Burrower_32x64_141
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -31}
+        - {x: -7, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 13, y: -1}
+        - {x: -9, y: -1}
+        - {x: -13, y: -10}
+    - name: Burrower_32x64_142
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -1}
+        - {x: -14, y: -27}
+        - {x: -7, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -30}
+        - {x: 16, y: -8}
+        - {x: 9, y: -1}
+    - name: Burrower_32x64_143
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 260
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -8}
+        - {x: -8, y: -10}
+        - {x: -10, y: -19}
+        - {x: -10, y: -25}
+        - {x: -6, y: -30}
+        - {x: 3, y: -30}
+        - {x: 12, y: -27}
+        - {x: 12, y: -21}
+        - {x: 6, y: -9}
+        - {x: 4, y: -8}
+    - name: Burrower_32x64_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 7}
+        - {x: -16, y: -6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19}
+        - {x: -14, y: 14}
+        - {x: -16, y: 0}
+        - {x: -16, y: -19}
+        - {x: -9, y: -30}
+        - {x: 16, y: -30}
+        - {x: 16, y: 13}
+        - {x: 14, y: 19}
+    - name: Burrower_32x64_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -16, y: -2}
+        - {x: -16, y: -25}
+        - {x: -14, y: -28}
+        - {x: 8, y: -28}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+    - name: Burrower_32x64_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -8}
+        - {x: 8, y: 0}
+        - {x: -6, y: 0}
+        - {x: -16, y: -5}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 3, y: -31}
+        - {x: 11, y: -29}
+        - {x: 13, y: -24}
+        - {x: 13, y: -17}
+    - name: Burrower_32x64_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -2}
+        - {x: -16, y: -2}
+        - {x: -16, y: -27}
+        - {x: -11, y: -31}
+        - {x: -1, y: -31}
+        - {x: 8, y: -28}
+        - {x: 12, y: -24}
+        - {x: 12, y: -4}
+    - name: Burrower_32x64_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -14, y: -19}
+        - {x: -14, y: -26}
+        - {x: -9, y: -30}
+        - {x: 1, y: -30}
+        - {x: 3, y: -29}
+        - {x: 8, y: -25}
+        - {x: 7, y: -22}
+        - {x: 5, y: -8}
+    - name: Burrower_32x64_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 7}
+        - {x: -16, y: -6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19}
+        - {x: -14, y: 14}
+        - {x: -16, y: 0}
+        - {x: -16, y: -19}
+        - {x: -9, y: -30}
+        - {x: 16, y: -30}
+        - {x: 16, y: 13}
+        - {x: 14, y: 19}
+    - name: Burrower_32x64_152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -16, y: -2}
+        - {x: -16, y: -25}
+        - {x: -14, y: -28}
+        - {x: 8, y: -28}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+    - name: Burrower_32x64_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -8}
+        - {x: 8, y: 0}
+        - {x: -6, y: 0}
+        - {x: -16, y: -5}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 3, y: -31}
+        - {x: 11, y: -29}
+        - {x: 13, y: -24}
+        - {x: 13, y: -17}
+    - name: Burrower_32x64_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -2}
+        - {x: -16, y: -2}
+        - {x: -16, y: -27}
+        - {x: -11, y: -31}
+        - {x: -1, y: -31}
+        - {x: 8, y: -28}
+        - {x: 12, y: -24}
+        - {x: 12, y: -4}
+    - name: Burrower_32x64_155
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -14, y: -19}
+        - {x: -14, y: -26}
+        - {x: -9, y: -30}
+        - {x: 1, y: -30}
+        - {x: 3, y: -29}
+        - {x: 8, y: -25}
+        - {x: 7, y: -22}
+        - {x: 5, y: -8}
+    - name: Burrower_32x64_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 7}
+        - {x: -16, y: -6}
+        - {x: -16, y: -30}
+        - {x: -13, y: -32}
+        - {x: 7, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: -3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_157
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19}
+        - {x: -14, y: 14}
+        - {x: -16, y: 0}
+        - {x: -16, y: -19}
+        - {x: -9, y: -30}
+        - {x: 16, y: -30}
+        - {x: 16, y: 13}
+        - {x: 14, y: 19}
+    - name: Burrower_32x64_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -16, y: -2}
+        - {x: -16, y: -25}
+        - {x: -14, y: -28}
+        - {x: 8, y: -28}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+    - name: Burrower_32x64_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -8}
+        - {x: 8, y: 0}
+        - {x: -6, y: 0}
+        - {x: -16, y: -5}
+        - {x: -16, y: -28}
+        - {x: -11, y: -31}
+        - {x: 3, y: -31}
+        - {x: 11, y: -29}
+        - {x: 13, y: -24}
+        - {x: 13, y: -17}
+    - name: Burrower_32x64_160
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -2}
+        - {x: -16, y: -2}
+        - {x: -16, y: -27}
+        - {x: -11, y: -31}
+        - {x: -1, y: -31}
+        - {x: 8, y: -28}
+        - {x: 12, y: -24}
+        - {x: 12, y: -4}
+    - name: Burrower_32x64_161
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -14, y: -19}
+        - {x: -14, y: -26}
+        - {x: -9, y: -30}
+        - {x: 1, y: -30}
+        - {x: 3, y: -29}
+        - {x: 8, y: -25}
+        - {x: 7, y: -22}
+        - {x: 5, y: -8}
+    - name: Burrower_32x64_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -10}
+        - {x: 10, y: -9}
+        - {x: -11, y: -9}
+        - {x: -12, y: -11}
+        - {x: -12, y: -26}
+        - {x: -7, y: -29}
+        - {x: 9, y: -29}
+        - {x: 15, y: -25}
+        - {x: 16, y: -17}
+        - {x: 16, y: -14}
+    - name: Burrower_32x64_163
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -13, y: -29}
+        - {x: -6, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -8}
+        - {x: 13, y: -7}
+    - name: Burrower_32x64_164
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -11}
+        - {x: -1, y: -10}
+        - {x: -6, y: -10}
+        - {x: -14, y: -18}
+        - {x: -14, y: -31}
+        - {x: 2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -25}
+        - {x: 15, y: -16}
+      - - {x: -10, y: -14}
+        - {x: -7, y: -13}
+        - {x: -7, y: -10}
+        - {x: -10, y: -9}
+        - {x: -12, y: -11}
+      - - {x: 5, y: -9}
+        - {x: 5, y: -10}
+        - {x: 8, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: -9}
+        - {x: 9, y: -7}
+        - {x: 7, y: -7}
+    - name: Burrower_32x64_165
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -16, y: -19}
+        - {x: -12, y: -28}
+        - {x: -1, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 22}
+        - {x: 7, y: 26}
+    - name: Burrower_32x64_166
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -19}
+        - {x: -4, y: -19}
+        - {x: -8, y: -22}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: 2, y: -30}
+        - {x: 3, y: -30}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 5, y: -20}
+      - - {x: -14, y: 27}
+        - {x: -16, y: 24}
+        - {x: -16, y: -7}
+        - {x: -8, y: -18}
+        - {x: 9, y: -18}
+        - {x: 16, y: -15}
+        - {x: 16, y: 25}
+        - {x: 12, y: 27}
+      - - {x: -7, y: -17}
+        - {x: -4, y: -16}
+        - {x: -4, y: -13}
+        - {x: -7, y: -12}
+        - {x: -9, y: -14}
+    - name: Burrower_32x64_167
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_168
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -10}
+        - {x: 10, y: -9}
+        - {x: -11, y: -9}
+        - {x: -12, y: -11}
+        - {x: -12, y: -26}
+        - {x: -7, y: -29}
+        - {x: 9, y: -29}
+        - {x: 15, y: -25}
+        - {x: 16, y: -17}
+        - {x: 16, y: -14}
+    - name: Burrower_32x64_169
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -13, y: -29}
+        - {x: -6, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -8}
+        - {x: 13, y: -7}
+    - name: Burrower_32x64_170
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -11}
+        - {x: -1, y: -10}
+        - {x: -6, y: -10}
+        - {x: -14, y: -18}
+        - {x: -14, y: -31}
+        - {x: 2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -25}
+        - {x: 15, y: -16}
+      - - {x: -10, y: -14}
+        - {x: -7, y: -13}
+        - {x: -7, y: -10}
+        - {x: -10, y: -9}
+        - {x: -12, y: -11}
+      - - {x: 5, y: -9}
+        - {x: 5, y: -10}
+        - {x: 8, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: -9}
+        - {x: 9, y: -7}
+        - {x: 7, y: -7}
+    - name: Burrower_32x64_171
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -16, y: -19}
+        - {x: -12, y: -28}
+        - {x: -1, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 22}
+        - {x: 7, y: 26}
+    - name: Burrower_32x64_172
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -19}
+        - {x: -4, y: -19}
+        - {x: -8, y: -22}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: 2, y: -30}
+        - {x: 3, y: -30}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 5, y: -20}
+      - - {x: -14, y: 27}
+        - {x: -16, y: 24}
+        - {x: -16, y: -7}
+        - {x: -8, y: -18}
+        - {x: 9, y: -18}
+        - {x: 16, y: -15}
+        - {x: 16, y: 25}
+        - {x: 12, y: 27}
+      - - {x: -7, y: -17}
+        - {x: -4, y: -16}
+        - {x: -4, y: -13}
+        - {x: -7, y: -12}
+        - {x: -9, y: -14}
+    - name: Burrower_32x64_173
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_174
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -10}
+        - {x: 10, y: -9}
+        - {x: -11, y: -9}
+        - {x: -12, y: -11}
+        - {x: -12, y: -26}
+        - {x: -7, y: -29}
+        - {x: 9, y: -29}
+        - {x: 15, y: -25}
+        - {x: 16, y: -17}
+        - {x: 16, y: -14}
+    - name: Burrower_32x64_175
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -7}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -13, y: -29}
+        - {x: -6, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -8}
+        - {x: 13, y: -7}
+    - name: Burrower_32x64_176
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -11}
+        - {x: -1, y: -10}
+        - {x: -6, y: -10}
+        - {x: -14, y: -18}
+        - {x: -14, y: -31}
+        - {x: 2, y: -32}
+        - {x: 14, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: -25}
+        - {x: 15, y: -16}
+      - - {x: -10, y: -14}
+        - {x: -7, y: -13}
+        - {x: -7, y: -10}
+        - {x: -10, y: -9}
+        - {x: -12, y: -11}
+      - - {x: 5, y: -9}
+        - {x: 5, y: -10}
+        - {x: 8, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: -9}
+        - {x: 9, y: -7}
+        - {x: 7, y: -7}
+    - name: Burrower_32x64_177
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 26}
+        - {x: -16, y: -19}
+        - {x: -12, y: -28}
+        - {x: -1, y: -31}
+        - {x: 8, y: -31}
+        - {x: 16, y: -26}
+        - {x: 16, y: 22}
+        - {x: 7, y: 26}
+    - name: Burrower_32x64_178
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -19}
+        - {x: -4, y: -19}
+        - {x: -8, y: -22}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: 2, y: -30}
+        - {x: 3, y: -30}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 5, y: -20}
+      - - {x: -14, y: 27}
+        - {x: -16, y: 24}
+        - {x: -16, y: -7}
+        - {x: -8, y: -18}
+        - {x: 9, y: -18}
+        - {x: 16, y: -15}
+        - {x: 16, y: 25}
+        - {x: 12, y: 27}
+      - - {x: -7, y: -17}
+        - {x: -4, y: -16}
+        - {x: -4, y: -13}
+        - {x: -7, y: -12}
+        - {x: -9, y: -14}
+    - name: Burrower_32x64_179
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 130
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -13, y: 9}
+        - {x: -14, y: 7}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -2}
+        - {x: 15, y: 7}
+    - name: Burrower_32x64_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -14, y: -20}
+        - {x: -14, y: -28}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 11, y: -30}
+        - {x: 13, y: -26}
+        - {x: 13, y: -20}
+        - {x: 9, y: -14}
+    - name: Burrower_32x64_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -16, y: -22}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: -15}
+        - {x: 12, y: -14}
+    - name: Burrower_32x64_182
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -12}
+        - {x: -16, y: -22}
+        - {x: -16, y: -29}
+        - {x: -15, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: -19}
+        - {x: 13, y: -12}
+    - name: Burrower_32x64_183
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 17}
+        - {x: -16, y: 7}
+        - {x: -16, y: -10}
+        - {x: -13, y: -14}
+        - {x: -10, y: -14}
+        - {x: -8, y: -12}
+        - {x: -8, y: -10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -18}
+        - {x: -16, y: -23}
+        - {x: -16, y: -25}
+        - {x: -15, y: -27}
+        - {x: -7, y: -31}
+        - {x: -1, y: -31}
+        - {x: 14, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 26}
+    - name: Burrower_32x64_184
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -19}
+        - {x: -9, y: -21}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: -3, y: -30}
+        - {x: 8, y: -27}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 3, y: -19}
+      - - {x: 8, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 27}
+        - {x: -9, y: 27}
+        - {x: -16, y: 23}
+        - {x: -16, y: -18}
+        - {x: 2, y: -18}
+        - {x: 4, y: -15}
+        - {x: 2, y: -12}
+        - {x: 5, y: -17}
+    - name: Burrower_32x64_185
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 7}
+        - {x: -14, y: 0}
+        - {x: -16, y: -12}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_186
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -14, y: -20}
+        - {x: -14, y: -28}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 11, y: -30}
+        - {x: 13, y: -26}
+        - {x: 13, y: -20}
+        - {x: 9, y: -14}
+    - name: Burrower_32x64_187
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -16, y: -22}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: -15}
+        - {x: 12, y: -14}
+    - name: Burrower_32x64_188
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -12}
+        - {x: -16, y: -22}
+        - {x: -16, y: -29}
+        - {x: -15, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: -19}
+        - {x: 13, y: -12}
+    - name: Burrower_32x64_189
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 17}
+        - {x: -16, y: 7}
+        - {x: -16, y: -10}
+        - {x: -13, y: -14}
+        - {x: -10, y: -14}
+        - {x: -8, y: -12}
+        - {x: -8, y: -10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -18}
+        - {x: -16, y: -23}
+        - {x: -16, y: -25}
+        - {x: -15, y: -27}
+        - {x: -7, y: -31}
+        - {x: -1, y: -31}
+        - {x: 14, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 26}
+    - name: Burrower_32x64_190
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -19}
+        - {x: -9, y: -21}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: -3, y: -30}
+        - {x: 8, y: -27}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 3, y: -19}
+      - - {x: 8, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 27}
+        - {x: -9, y: 27}
+        - {x: -16, y: 23}
+        - {x: -16, y: -18}
+        - {x: 2, y: -18}
+        - {x: 4, y: -15}
+        - {x: 2, y: -12}
+        - {x: 5, y: -17}
+    - name: Burrower_32x64_191
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 7}
+        - {x: -14, y: 0}
+        - {x: -16, y: -12}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_192
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -14, y: -20}
+        - {x: -14, y: -28}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 11, y: -30}
+        - {x: 13, y: -26}
+        - {x: 13, y: -20}
+        - {x: 9, y: -14}
+    - name: Burrower_32x64_193
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -14}
+        - {x: -16, y: -22}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: -15}
+        - {x: 12, y: -14}
+    - name: Burrower_32x64_194
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -12}
+        - {x: -16, y: -22}
+        - {x: -16, y: -29}
+        - {x: -15, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: -19}
+        - {x: 13, y: -12}
+    - name: Burrower_32x64_195
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 17}
+        - {x: -16, y: 7}
+        - {x: -16, y: -10}
+        - {x: -13, y: -14}
+        - {x: -10, y: -14}
+        - {x: -8, y: -12}
+        - {x: -8, y: -10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -18}
+        - {x: -16, y: -23}
+        - {x: -16, y: -25}
+        - {x: -15, y: -27}
+        - {x: -7, y: -31}
+        - {x: -1, y: -31}
+        - {x: 14, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 26}
+    - name: Burrower_32x64_196
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -19}
+        - {x: -9, y: -21}
+        - {x: -10, y: -24}
+        - {x: -9, y: -27}
+        - {x: -3, y: -30}
+        - {x: 8, y: -27}
+        - {x: 10, y: -25}
+        - {x: 9, y: -22}
+        - {x: 3, y: -19}
+      - - {x: 8, y: -18}
+        - {x: 16, y: -13}
+        - {x: 16, y: 27}
+        - {x: -9, y: 27}
+        - {x: -16, y: 23}
+        - {x: -16, y: -18}
+        - {x: 2, y: -18}
+        - {x: 4, y: -15}
+        - {x: 2, y: -12}
+        - {x: 5, y: -17}
+    - name: Burrower_32x64_197
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 7}
+        - {x: -14, y: 0}
+        - {x: -16, y: -12}
+        - {x: -16, y: -27}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 3}
+        - {x: 12, y: 7}
+    - name: Burrower_32x64_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 11}
+        - {x: 10, y: 12}
+        - {x: -8, y: 12}
+        - {x: -10, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -19}
+        - {x: -15, y: -29}
+        - {x: -8, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -17}
+        - {x: 16, y: 0}
+    - name: Burrower_32x64_199
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 8}
+        - {x: -15, y: -30}
+        - {x: -9, y: -31}
+        - {x: 11, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 7}
+        - {x: 14, y: 11}
+    - name: Burrower_32x64_200
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -18}
+        - {x: -9, y: -18}
+        - {x: -12, y: -20}
+        - {x: -12, y: -27}
+        - {x: -10, y: -31}
+        - {x: 7, y: -31}
+        - {x: 12, y: -27}
+        - {x: 12, y: -23}
+    - name: Burrower_32x64_201
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 11}
+        - {x: 10, y: 12}
+        - {x: -8, y: 12}
+        - {x: -10, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -19}
+        - {x: -15, y: -29}
+        - {x: -8, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -17}
+        - {x: 16, y: 0}
+    - name: Burrower_32x64_202
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 8}
+        - {x: -15, y: -30}
+        - {x: -9, y: -31}
+        - {x: 11, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 7}
+        - {x: 14, y: 11}
+    - name: Burrower_32x64_203
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -18}
+        - {x: -9, y: -18}
+        - {x: -12, y: -20}
+        - {x: -12, y: -27}
+        - {x: -10, y: -31}
+        - {x: 7, y: -31}
+        - {x: 12, y: -27}
+        - {x: 12, y: -23}
+    - name: Burrower_32x64_204
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 11}
+        - {x: 10, y: 12}
+        - {x: -8, y: 12}
+        - {x: -10, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -19}
+        - {x: -15, y: -29}
+        - {x: -8, y: -31}
+        - {x: 11, y: -31}
+        - {x: 14, y: -27}
+        - {x: 16, y: -17}
+        - {x: 16, y: 0}
+    - name: Burrower_32x64_205
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -9, y: 12}
+        - {x: -15, y: 8}
+        - {x: -15, y: -30}
+        - {x: -9, y: -31}
+        - {x: 11, y: -31}
+        - {x: 16, y: -29}
+        - {x: 16, y: 7}
+        - {x: 14, y: 11}
+    - name: Burrower_32x64_206
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -18}
+        - {x: -9, y: -18}
+        - {x: -12, y: -20}
+        - {x: -12, y: -27}
+        - {x: -10, y: -31}
+        - {x: 7, y: -31}
+        - {x: 12, y: -27}
+        - {x: 12, y: -23}
+    - name: Burrower_32x64_207
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -1, y: -32}
+        - {x: 4, y: -32}
+        - {x: 16, y: 21}
+        - {x: 16, y: 29}
+        - {x: 2, y: 29}
+    - name: Burrower_32x64_208
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: 29}
+        - {x: -16, y: 29}
+    - name: Burrower_32x64_209
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: 16, y: 24}
+        - {x: 16, y: 29}
+        - {x: -16, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

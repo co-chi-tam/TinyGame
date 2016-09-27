@@ -1,0 +1,44 @@
+﻿{
+  "fsm": [
+    {
+      "condition_name": "IsRoot",
+      "condition_value": true,
+      "state_name": "SkillIdleState",
+      "states": [
+        {
+          "condition_name": "HaveEnemy",
+          "condition_value": true,
+          "state_name": "SkillStayEnemyState",
+          "states": [
+	        {
+              "condition_name": "DidMoveToEnemy",
+              "condition_value": true,
+              "state_name": "SkillAttackState",
+              "states": [
+              	{
+	              "condition_name": "DidAttackFinish",
+	              "condition_value": true,
+	              "state_name": "SkillDestroyState",
+	              "states": []
+	            }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "condition_name": "IsAnyState",
+      "condition_value": true,
+      "state_name": "AnyState",
+      "states": [
+        {
+          "condition_name": "IsDestroy",
+          "condition_value": true,
+          "state_name": "SkillDestroyState",
+          "states": []
+        }
+      ]
+    }
+  ]
+}

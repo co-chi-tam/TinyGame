@@ -1,0 +1,45 @@
+{
+  "name": "tinygame",
+  "version": "1.1.1",
+  "description": "Tiny Game",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "application",
+    "openshift"
+  ],
+  "author": {
+    "name": "co_chi_tam",
+    "email": "cochitam1990@gmail.com",
+    "url": "http://tamco-tinygame.rhcloud.com/"
+  },
+  "homepage": "http://tamco-tinygame.rhcloud.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openshift/origin-server"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cluster": "~0.7.7",
+    "crypto": "~0.0.3",
+    "express": "~4.14.0",
+    "fs": "~0.0.2",
+    "mongodb": "~2.2.4",
+    "node-uuid": "^1.4.7",
+    "os": ">=0.0.1",
+	"socket.io": "^1.2.0",
+	"ws" : "^0.4.31",
+	"nodemon": "*"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}

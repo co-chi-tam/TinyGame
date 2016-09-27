@@ -1,0 +1,39 @@
+{
+  "name": "chattinygame",
+  "version": "1.0.1",
+  "description": "Tiny Game Echo Application",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "application",
+    "openshift"
+  ],
+  "author": {
+    "name": "co_chi_tam",
+    "email": "cochitam1990@gmail.com",
+    "url":  "http://tamco-tinygame.rhcloud.com/"
+  },
+  "homepage": "http://tamco-tinygame.rhcloud.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://gitub.com/openshift/origin-server"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+	  "socket.io" : "0.9.16",
+	  "ws" : "0.4.31",
+	  "cluster": "~0.7.7",
+      "os": ">=0.0.1",
+	  "nodemon": "*"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js",
+  "scrips": {
+	"start": "nodemon server.js"
+  }
+}

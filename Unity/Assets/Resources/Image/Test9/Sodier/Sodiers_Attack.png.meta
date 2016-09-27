@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 90720bb521ae9d749aaf41c93277d55d
+timeCreated: 1468303558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sodiers_Attack_0
+    21300002: Sodiers_Attack_1
+    21300004: Sodiers_Attack_2
+    21300006: Sodiers_Attack_3
+    21300008: Sodiers_Attack_4
+    21300010: Sodiers_Attack_5
+    21300012: Sodiers_Attack_6
+    21300014: Sodiers_Attack_7
+    21300016: Sodiers_Attack_8
+    21300018: Sodiers_Attack_9
+    21300020: Sodiers_Attack_10
+    21300022: Sodiers_Attack_11
+    21300024: Sodiers_Attack_12
+    21300026: Sodiers_Attack_13
+    21300028: Sodiers_Attack_14
+    21300030: Sodiers_Attack_15
+    21300032: Sodiers_Attack_16
+    21300034: Sodiers_Attack_17
+    21300036: Sodiers_Attack_18
+    21300038: Sodiers_Attack_19
+    21300040: Sodiers_Attack_20
+    21300042: Sodiers_Attack_21
+    21300044: Sodiers_Attack_22
+    21300046: Sodiers_Attack_23
+    21300048: Sodiers_Attack_24
+    21300050: Sodiers_Attack_25
+    21300052: Sodiers_Attack_26
+    21300054: Sodiers_Attack_27
+    21300056: Sodiers_Attack_28
+    21300058: Sodiers_Attack_29
+    21300060: Sodiers_Attack_30
+    21300062: Sodiers_Attack_31
+    21300064: Sodiers_Attack_32
+    21300066: Sodiers_Attack_33
+    21300068: Sodiers_Attack_34
+    21300070: Sodiers_Attack_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sodiers_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24}
+        - {x: -10.5, y: 24}
+        - {x: -13.5, y: 20}
+        - {x: -13.5, y: -19}
+        - {x: -11.5, y: -23}
+        - {x: 13.5, y: -23}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 18}
+        - {x: 17.5, y: 21}
+    - name: Sodiers_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 9}
+        - {x: 6.5, y: 20}
+        - {x: -15.5, y: 20}
+        - {x: -15.5, y: -9}
+        - {x: -14.5, y: -19}
+        - {x: -9.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 8}
+        - {x: 14.5, y: 12}
+    - name: Sodiers_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 11.5, y: -23}
+        - {x: 11.5, y: 11}
+        - {x: 9.5, y: 21}
+    - name: Sodiers_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -12.5, y: -23}
+        - {x: 12.5, y: -23}
+        - {x: 15.5, y: 1}
+        - {x: 15.5, y: 24}
+    - name: Sodiers_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: -7}
+        - {x: -15.5, y: -21}
+        - {x: -7.5, y: -23}
+        - {x: 10.5, y: -23}
+        - {x: 11.5, y: -22}
+        - {x: 11.5, y: 20}
+    - name: Sodiers_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9}
+        - {x: 9.5, y: 21}
+        - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 12.5, y: -19}
+        - {x: 11.5, y: -14}
+        - {x: 17.5, y: 1}
+    - name: Sodiers_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24}
+        - {x: -10.5, y: 24}
+        - {x: -13.5, y: 20}
+        - {x: -13.5, y: -19}
+        - {x: -11.5, y: -23}
+        - {x: 13.5, y: -23}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 18}
+        - {x: 17.5, y: 21}
+    - name: Sodiers_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 9}
+        - {x: 6.5, y: 20}
+        - {x: -15.5, y: 20}
+        - {x: -15.5, y: -9}
+        - {x: -14.5, y: -19}
+        - {x: -9.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 8}
+        - {x: 14.5, y: 12}
+    - name: Sodiers_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 11.5, y: -23}
+        - {x: 11.5, y: 11}
+        - {x: 9.5, y: 21}
+    - name: Sodiers_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -12.5, y: -23}
+        - {x: 12.5, y: -23}
+        - {x: 15.5, y: 1}
+        - {x: 15.5, y: 24}
+    - name: Sodiers_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: -7}
+        - {x: -15.5, y: -21}
+        - {x: -7.5, y: -23}
+        - {x: 10.5, y: -23}
+        - {x: 11.5, y: -22}
+        - {x: 11.5, y: 20}
+    - name: Sodiers_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9}
+        - {x: 9.5, y: 21}
+        - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 12.5, y: -19}
+        - {x: 11.5, y: -14}
+        - {x: 17.5, y: 1}
+    - name: Sodiers_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 24}
+        - {x: -10.5, y: 24}
+        - {x: -13.5, y: 20}
+        - {x: -13.5, y: -19}
+        - {x: -11.5, y: -23}
+        - {x: 13.5, y: -23}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 18}
+        - {x: 17.5, y: 21}
+    - name: Sodiers_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 9}
+        - {x: 6.5, y: 20}
+        - {x: -15.5, y: 20}
+        - {x: -15.5, y: -9}
+        - {x: -14.5, y: -19}
+        - {x: -9.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 8}
+        - {x: 14.5, y: 12}
+    - name: Sodiers_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 11.5, y: -23}
+        - {x: 11.5, y: 11}
+        - {x: 9.5, y: 21}
+    - name: Sodiers_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24}
+        - {x: -12.5, y: -23}
+        - {x: 12.5, y: -23}
+        - {x: 15.5, y: 1}
+        - {x: 15.5, y: 24}
+    - name: Sodiers_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -19.5, y: 7}
+        - {x: -19.5, y: -7}
+        - {x: -15.5, y: -21}
+        - {x: -7.5, y: -23}
+        - {x: 10.5, y: -23}
+        - {x: 11.5, y: -22}
+        - {x: 11.5, y: 20}
+    - name: Sodiers_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 48
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9}
+        - {x: 9.5, y: 21}
+        - {x: -13.5, y: 21}
+        - {x: -13.5, y: -22}
+        - {x: -9.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 12.5, y: -19}
+        - {x: 11.5, y: -14}
+        - {x: 17.5, y: 1}
+    - name: Sodiers_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -12.5, y: -23}
+        - {x: -11.5, y: -24}
+        - {x: 9.5, y: -24}
+        - {x: 13.5, y: -17}
+        - {x: 13.5, y: 20}
+    - name: Sodiers_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -14.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: -1}
+        - {x: 7.5, y: 18}
+        - {x: -7.5, y: 18}
+        - {x: -20.5, y: 9}
+    - name: Sodiers_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 15}
+        - {x: -18.5, y: 10}
+        - {x: -18.5, y: -8}
+        - {x: -13.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: 13}
+        - {x: 9.5, y: 20}
+    - name: Sodiers_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20}
+        - {x: -18.5, y: 13}
+        - {x: -18.5, y: -21}
+        - {x: -15.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 16.5, y: -15}
+        - {x: 16.5, y: 18}
+        - {x: 15.5, y: 20}
+    - name: Sodiers_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -17}
+        - {x: -14.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 11}
+        - {x: 10.5, y: 18}
+    - name: Sodiers_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 18}
+        - {x: -13.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: 16}
+        - {x: 10.5, y: 20}
+    - name: Sodiers_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -12.5, y: -23}
+        - {x: -11.5, y: -24}
+        - {x: 9.5, y: -24}
+        - {x: 13.5, y: -17}
+        - {x: 13.5, y: 20}
+    - name: Sodiers_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -14.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: -1}
+        - {x: 7.5, y: 18}
+        - {x: -7.5, y: 18}
+        - {x: -20.5, y: 9}
+    - name: Sodiers_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 15}
+        - {x: -18.5, y: 10}
+        - {x: -18.5, y: -8}
+        - {x: -13.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: 13}
+        - {x: 9.5, y: 20}
+    - name: Sodiers_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20}
+        - {x: -18.5, y: 13}
+        - {x: -18.5, y: -21}
+        - {x: -15.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 16.5, y: -15}
+        - {x: 16.5, y: 18}
+        - {x: 15.5, y: 20}
+    - name: Sodiers_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -17}
+        - {x: -14.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 11}
+        - {x: 10.5, y: 18}
+    - name: Sodiers_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 18}
+        - {x: -13.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: 16}
+        - {x: 10.5, y: 20}
+    - name: Sodiers_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -12.5, y: -23}
+        - {x: -11.5, y: -24}
+        - {x: 9.5, y: -24}
+        - {x: 13.5, y: -17}
+        - {x: 13.5, y: 20}
+    - name: Sodiers_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -14.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: -1}
+        - {x: 7.5, y: 18}
+        - {x: -7.5, y: 18}
+        - {x: -20.5, y: 9}
+    - name: Sodiers_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 15}
+        - {x: -18.5, y: 10}
+        - {x: -18.5, y: -8}
+        - {x: -13.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: 13}
+        - {x: 9.5, y: 20}
+    - name: Sodiers_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20}
+        - {x: -18.5, y: 13}
+        - {x: -18.5, y: -21}
+        - {x: -15.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 16.5, y: -15}
+        - {x: 16.5, y: 18}
+        - {x: 15.5, y: 20}
+    - name: Sodiers_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -17}
+        - {x: -14.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 11}
+        - {x: 10.5, y: 18}
+    - name: Sodiers_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -13.5, y: 18}
+        - {x: -13.5, y: -24}
+        - {x: 11.5, y: -24}
+        - {x: 11.5, y: 16}
+        - {x: 10.5, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

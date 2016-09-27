@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: 102e592b7821dbe4ba2bf4133e903006
+timeCreated: 1471235540
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_sodier_avatar
+    21300002: Sodiers_Idle_Move_1
+    21300004: Sodiers_Idle_Move_2
+    21300006: Sodiers_Idle_Move_3
+    21300008: Sodiers_Idle_Move_4
+    21300010: Sodiers_Idle_Move_5
+    21300012: Sodiers_Idle_Move_6
+    21300014: Sodiers_Idle_Move_7
+    21300016: Sodiers_Idle_Move_8
+    21300018: Sodiers_Idle_Move_9
+    21300020: Sodiers_Idle_Move_10
+    21300022: Sodiers_Idle_Move_11
+    21300024: Sodiers_Idle_Move_12
+    21300026: Sodiers_Idle_Move_13
+    21300028: Sodiers_Idle_Move_14
+    21300030: Sodiers_Idle_Move_15
+    21300032: Sodiers_Idle_Move_16
+    21300034: Sodiers_Idle_Move_17
+    21300036: Sodiers_Idle_Move_18
+    21300038: Sodiers_Idle_Move_19
+    21300040: Sodiers_Idle_Move_20
+    21300042: Sodiers_Idle_Move_21
+    21300044: Sodiers_Idle_Move_22
+    21300046: Sodiers_Idle_Move_23
+    21300048: Sodiers_Idle_Move_24
+    21300050: Sodiers_Idle_Move_25
+    21300052: Sodiers_Idle_Move_26
+    21300054: Sodiers_Idle_Move_27
+    21300056: Sodiers_Idle_Move_28
+    21300058: Sodiers_Idle_Move_29
+    21300060: Sodiers_Idle_Move_30
+    21300062: Sodiers_Idle_Move_31
+    21300064: Sodiers_Idle_Move_32
+    21300066: Sodiers_Idle_Move_33
+    21300068: Sodiers_Idle_Move_34
+    21300070: Sodiers_Idle_Move_35
+    21300072: Sodiers_Idle_Move_36
+    21300074: Sodiers_Idle_Move_37
+    21300076: Sodiers_Idle_Move_38
+    21300078: Sodiers_Idle_Move_39
+    21300080: Sodiers_Idle_Move_40
+    21300082: Sodiers_Idle_Move_41
+    21300084: Sodiers_Idle_Move_42
+    21300086: Sodiers_Idle_Move_43
+    21300088: Sodiers_Idle_Move_44
+    21300090: Sodiers_Idle_Move_45
+    21300092: Sodiers_Idle_Move_46
+    21300094: Sodiers_Idle_Move_47
+    21300096: blue_sodier_avatar
+    21300098: Sodiers_Idle_Move_49
+    21300100: Sodiers_Idle_Move_50
+    21300102: Sodiers_Idle_Move_51
+    21300104: Sodiers_Idle_Move_52
+    21300106: Sodiers_Idle_Move_53
+    21300108: Sodiers_Idle_Move_54
+    21300110: Sodiers_Idle_Move_55
+    21300112: Sodiers_Idle_Move_56
+    21300114: Sodiers_Idle_Move_57
+    21300116: Sodiers_Idle_Move_58
+    21300118: Sodiers_Idle_Move_59
+    21300120: Sodiers_Idle_Move_60
+    21300122: Sodiers_Idle_Move_61
+    21300124: Sodiers_Idle_Move_62
+    21300126: Sodiers_Idle_Move_63
+    21300128: Sodiers_Idle_Move_64
+    21300130: Sodiers_Idle_Move_65
+    21300132: Sodiers_Idle_Move_66
+    21300134: Sodiers_Idle_Move_67
+    21300136: Sodiers_Idle_Move_68
+    21300138: Sodiers_Idle_Move_69
+    21300140: Sodiers_Idle_Move_70
+    21300142: Sodiers_Idle_Move_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: red_sodier_avatar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 23.5}
+        - {x: -3.5, y: 23.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 15.5, y: 21.5}
+    - name: Sodiers_Idle_Move_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24.5}
+        - {x: -9.5, y: 5.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 23.5}
+        - {x: 12.5, y: 24.5}
+    - name: Sodiers_Idle_Move_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24.5}
+        - {x: -9.5, y: 13.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 4.5, y: 24.5}
+    - name: Sodiers_Idle_Move_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -9.5, y: 18.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 23.5}
+    - name: Sodiers_Idle_Move_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 14.5, y: 20.5}
+    - name: Sodiers_Idle_Move_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 551
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -7.5, y: 20.5}
+        - {x: -9.5, y: 17.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 18.5}
+        - {x: -9.5, y: -20.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 14.5, y: -20.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 12.5, y: 21.5}
+        - {x: 0.5, y: 21.5}
+    - name: Sodiers_Idle_Move_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -20.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -2.5, y: 20.5}
+        - {x: -6.5, y: 19.5}
+        - {x: -9.5, y: 17.5}
+    - name: Sodiers_Idle_Move_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 14.5}
+        - {x: 11.5, y: 21.5}
+        - {x: 4.5, y: 21.5}
+        - {x: -9.5, y: 17.5}
+    - name: Sodiers_Idle_Move_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 502
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 20.5}
+        - {x: -2.5, y: 19.5}
+        - {x: -9.5, y: 14.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 14.5, y: 7.5}
+        - {x: 12.5, y: 20.5}
+    - name: Sodiers_Idle_Move_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 6.5, y: 21.5}
+    - name: Sodiers_Idle_Move_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 19.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -21.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 14.5, y: 16.5}
+    - name: Sodiers_Idle_Move_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -9.5}
+        - {x: 15.5, y: -10.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 11.5, y: 19.5}
+        - {x: -0.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 12.5, y: -10.5}
+    - name: Sodiers_Idle_Move_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 14.5}
+        - {x: -10.5, y: -17.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 1.5, y: 21.5}
+        - {x: -7.5, y: 21.5}
+        - {x: -9.5, y: 20.5}
+    - name: Sodiers_Idle_Move_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 453
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -3.5}
+        - {x: -10.5, y: -18.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 13.5, y: 16.5}
+    - name: Sodiers_Idle_Move_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 19.5}
+        - {x: -11.5, y: 14.5}
+        - {x: -12.5, y: 1.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 14.5, y: 5.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 19.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -18.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+    - name: Sodiers_Idle_Move_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.5}
+        - {x: -14.5, y: 18.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -13.5, y: -20.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 19.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 6.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 19.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -13.5, y: -20.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 6.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 404
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 21.5}
+        - {x: -12.5, y: 18.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 14.5}
+        - {x: 9.5, y: 21.5}
+    - name: Sodiers_Idle_Move_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 23.5}
+        - {x: -3.5, y: 23.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 15.5, y: 21.5}
+    - name: Sodiers_Idle_Move_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24.5}
+        - {x: -9.5, y: 5.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 23.5}
+        - {x: 12.5, y: 24.5}
+    - name: Sodiers_Idle_Move_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24.5}
+        - {x: -9.5, y: 13.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 4.5, y: 24.5}
+    - name: Sodiers_Idle_Move_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -9.5, y: 18.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 22.5}
+        - {x: 14.5, y: 23.5}
+    - name: Sodiers_Idle_Move_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 14.5, y: 20.5}
+    - name: Sodiers_Idle_Move_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 355
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -7.5, y: 20.5}
+        - {x: -9.5, y: 17.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 18.5}
+        - {x: -9.5, y: -20.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 14.5, y: -20.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 12.5, y: 21.5}
+        - {x: 0.5, y: 21.5}
+    - name: Sodiers_Idle_Move_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -20.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -2.5, y: 20.5}
+        - {x: -6.5, y: 19.5}
+        - {x: -9.5, y: 17.5}
+    - name: Sodiers_Idle_Move_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 14.5}
+        - {x: 11.5, y: 21.5}
+        - {x: 4.5, y: 21.5}
+        - {x: -9.5, y: 17.5}
+    - name: Sodiers_Idle_Move_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 306
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 20.5}
+        - {x: -2.5, y: 19.5}
+        - {x: -9.5, y: 14.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 14.5, y: 7.5}
+        - {x: 12.5, y: 20.5}
+    - name: Sodiers_Idle_Move_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 6.5, y: 21.5}
+    - name: Sodiers_Idle_Move_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 19.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -21.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 14.5, y: 16.5}
+    - name: Sodiers_Idle_Move_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -9.5}
+        - {x: 15.5, y: -10.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 11.5, y: 19.5}
+        - {x: -0.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 12.5, y: -10.5}
+    - name: Sodiers_Idle_Move_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 14.5}
+        - {x: -10.5, y: -17.5}
+        - {x: -8.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 1.5, y: 21.5}
+        - {x: -7.5, y: 21.5}
+        - {x: -9.5, y: 20.5}
+    - name: Sodiers_Idle_Move_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 257
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -11.5, y: -3.5}
+        - {x: -10.5, y: -18.5}
+        - {x: -7.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 13.5, y: 16.5}
+    - name: Sodiers_Idle_Move_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 19.5}
+        - {x: -11.5, y: 14.5}
+        - {x: -12.5, y: 1.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 14.5, y: 5.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 19.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -18.5}
+        - {x: -9.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 19.5}
+    - name: Sodiers_Idle_Move_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.5}
+        - {x: -14.5, y: 18.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -13.5, y: -20.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 13.5, y: 21.5}
+    - name: Sodiers_Idle_Move_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 19.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 6.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 19.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -13.5, y: -20.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 6.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 21.5}
+        - {x: -12.5, y: 18.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 14.5, y: -22.5}
+        - {x: 14.5, y: 14.5}
+        - {x: 9.5, y: 21.5}
+    - name: blue_sodier_avatar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 22.5}
+        - {x: -10.5, y: 3.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 11.5, y: -23.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 15.5, y: 20.5}
+        - {x: 4.5, y: 22.5}
+    - name: Sodiers_Idle_Move_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 24.5}
+        - {x: -6.5, y: 23.5}
+        - {x: -10.5, y: 4.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 16.5, y: 22.5}
+        - {x: 7.5, y: 24.5}
+    - name: Sodiers_Idle_Move_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 23.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -10.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 9.5, y: 23.5}
+    - name: Sodiers_Idle_Move_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 22.5}
+        - {x: -7.5, y: 21.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -6.5, y: -23.5}
+        - {x: 15.5, y: -23.5}
+        - {x: 15.5, y: 22.5}
+    - name: Sodiers_Idle_Move_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 21.5}
+        - {x: -6.5, y: 21.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -10.5, y: 8.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 15.5, y: 9.5}
+        - {x: 13.5, y: 19.5}
+    - name: Sodiers_Idle_Move_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 20.5}
+        - {x: -8.5, y: 19.5}
+        - {x: -10.5, y: 14.5}
+        - {x: -10.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 10.5, y: 20.5}
+    - name: Sodiers_Idle_Move_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 20.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -6.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 18.5}
+        - {x: 12.5, y: 20.5}
+    - name: Sodiers_Idle_Move_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 17.5}
+        - {x: -10.5, y: -21.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 8.5, y: -23.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 13.5, y: 18.5}
+        - {x: 11.5, y: 20.5}
+        - {x: -0.5, y: 20.5}
+    - name: Sodiers_Idle_Move_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -21.5}
+        - {x: -8.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 19.5}
+        - {x: -3.5, y: 19.5}
+        - {x: -7.5, y: 18.5}
+        - {x: -10.5, y: 16.5}
+    - name: Sodiers_Idle_Move_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 20.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -6.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 18.5}
+        - {x: 12.5, y: 20.5}
+    - name: Sodiers_Idle_Move_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 20.5}
+        - {x: -2.5, y: 18.5}
+        - {x: -10.5, y: 14.5}
+        - {x: -10.5, y: -19.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 15.5}
+        - {x: 10.5, y: 20.5}
+    - name: Sodiers_Idle_Move_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 19.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -10.5, y: -22.5}
+        - {x: -6.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 13.5, y: -20.5}
+        - {x: 13.5, y: -3.5}
+        - {x: 11.5, y: 19.5}
+    - name: Sodiers_Idle_Move_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20.5}
+        - {x: -10.5, y: 19.5}
+        - {x: -12.5, y: 11.5}
+        - {x: -12.5, y: -17.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 4.5, y: 20.5}
+    - name: Sodiers_Idle_Move_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 18.5}
+        - {x: -12.5, y: -22.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 18.5}
+    - name: Sodiers_Idle_Move_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -10.5}
+        - {x: 14.5, y: -11.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 9.5, y: 20.5}
+        - {x: -12.5, y: 20.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 11.5, y: -23.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 13.5, y: -14.5}
+        - {x: 11.5, y: -11.5}
+    - name: Sodiers_Idle_Move_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 6.5, y: 20.5}
+    - name: Sodiers_Idle_Move_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 18.5}
+        - {x: -12.5, y: -9.5}
+        - {x: -11.5, y: -19.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 12.5, y: 18.5}
+    - name: Sodiers_Idle_Move_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -10.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 8.5}
+        - {x: 14.5, y: 20.5}
+    - name: Sodiers_Idle_Move_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 18.5}
+        - {x: -4.5, y: 18.5}
+        - {x: -12.5, y: 13.5}
+        - {x: -13.5, y: -2.5}
+        - {x: -13.5, y: -21.5}
+        - {x: -6.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 13.5, y: 13.5}
+        - {x: 12.5, y: 17.5}
+    - name: Sodiers_Idle_Move_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18.5}
+        - {x: -15.5, y: 15.5}
+        - {x: -15.5, y: -19.5}
+        - {x: -10.5, y: -23.5}
+        - {x: 10.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 18.5}
+    - name: Sodiers_Idle_Move_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 20.5}
+        - {x: -14.5, y: 19.5}
+        - {x: -15.5, y: 15.5}
+        - {x: -15.5, y: -18.5}
+        - {x: -14.5, y: -21.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 9.5, y: 20.5}
+    - name: Sodiers_Idle_Move_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18.5}
+        - {x: -13.5, y: 11.5}
+        - {x: -13.5, y: -20.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 13.5, y: 7.5}
+        - {x: 11.5, y: 18.5}
+    - name: Sodiers_Idle_Move_70
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18.5}
+        - {x: -15.5, y: 15.5}
+        - {x: -15.5, y: -22.5}
+        - {x: -13.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 13.5, y: 0.5}
+        - {x: 9.5, y: 18.5}
+    - name: Sodiers_Idle_Move_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -19.5}
+        - {x: -14.5, y: -21.5}
+        - {x: -11.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 13.5, y: 14.5}
+        - {x: 11.5, y: 20.5}
+        - {x: -6.5, y: 20.5}
+        - {x: -13.5, y: 18.5}
+        - {x: -15.5, y: 8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

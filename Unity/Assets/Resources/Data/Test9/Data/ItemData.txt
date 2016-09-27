@@ -1,0 +1,8 @@
+﻿{
+	"id": "701",
+	"name": "Mercenary Box: RedSodier",
+	"modelPath": "Prefabs/Test9/MercenaryBox",
+	"avatar": "MercenaryBox",
+	"activeMethod": "createMercenary",
+	"valuesMethod": ["101"]
+}

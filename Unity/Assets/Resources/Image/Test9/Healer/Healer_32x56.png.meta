@@ -1,0 +1,2751 @@
+fileFormatVersion: 2
+guid: b2054f4de1086eb488ae2bd36c3d2d5e
+timeCreated: 1471235483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_healer_avatar
+    21300002: Healer_32x56_1
+    21300004: Healer_32x56_2
+    21300006: Healer_32x56_3
+    21300008: Healer_32x56_4
+    21300010: Healer_32x56_5
+    21300012: Healer_32x56_6
+    21300014: Healer_32x56_7
+    21300016: Healer_32x56_8
+    21300018: Healer_32x56_9
+    21300020: Healer_32x56_10
+    21300022: Healer_32x56_11
+    21300024: Healer_32x56_12
+    21300026: Healer_32x56_13
+    21300028: Healer_32x56_14
+    21300030: Healer_32x56_15
+    21300032: Healer_32x56_16
+    21300034: Healer_32x56_17
+    21300036: Healer_32x56_18
+    21300038: Healer_32x56_19
+    21300040: Healer_32x56_20
+    21300042: Healer_32x56_21
+    21300044: Healer_32x56_22
+    21300046: Healer_32x56_23
+    21300048: Healer_32x56_24
+    21300050: Healer_32x56_25
+    21300052: Healer_32x56_26
+    21300054: Healer_32x56_27
+    21300056: Healer_32x56_28
+    21300058: Healer_32x56_29
+    21300060: Healer_32x56_30
+    21300062: Healer_32x56_31
+    21300064: Healer_32x56_32
+    21300066: Healer_32x56_33
+    21300068: Healer_32x56_34
+    21300070: Healer_32x56_35
+    21300072: Healer_32x56_36
+    21300074: Healer_32x56_37
+    21300076: Healer_32x56_38
+    21300078: Healer_32x56_39
+    21300080: Healer_32x56_40
+    21300082: Healer_32x56_41
+    21300084: Healer_32x56_42
+    21300086: Healer_32x56_43
+    21300088: Healer_32x56_44
+    21300090: Healer_32x56_45
+    21300092: Healer_32x56_46
+    21300094: Healer_32x56_47
+    21300096: Healer_32x56_48
+    21300098: Healer_32x56_49
+    21300100: Healer_32x56_50
+    21300102: Healer_32x56_51
+    21300104: Healer_32x56_52
+    21300106: Healer_32x56_53
+    21300108: Healer_32x56_54
+    21300110: Healer_32x56_55
+    21300112: Healer_32x56_56
+    21300114: Healer_32x56_57
+    21300116: Healer_32x56_58
+    21300118: Healer_32x56_59
+    21300120: Healer_32x56_60
+    21300122: Healer_32x56_61
+    21300124: Healer_32x56_62
+    21300126: Healer_32x56_63
+    21300128: Healer_32x56_64
+    21300130: Healer_32x56_65
+    21300132: Healer_32x56_66
+    21300134: Healer_32x56_67
+    21300136: Healer_32x56_68
+    21300138: Healer_32x56_69
+    21300140: Healer_32x56_70
+    21300142: Healer_32x56_71
+    21300144: Healer_32x56_72
+    21300146: Healer_32x56_73
+    21300148: Healer_32x56_74
+    21300150: Healer_32x56_75
+    21300152: Healer_32x56_76
+    21300154: Healer_32x56_77
+    21300156: Healer_32x56_78
+    21300158: Healer_32x56_79
+    21300160: Healer_32x56_80
+    21300162: Healer_32x56_81
+    21300164: Healer_32x56_82
+    21300166: Healer_32x56_83
+    21300168: Healer_32x56_84
+    21300170: Healer_32x56_85
+    21300172: Healer_32x56_86
+    21300174: Healer_32x56_87
+    21300176: Healer_32x56_88
+    21300178: Healer_32x56_89
+    21300180: Healer_32x56_90
+    21300182: Healer_32x56_91
+    21300184: Healer_32x56_92
+    21300186: Healer_32x56_93
+    21300188: Healer_32x56_94
+    21300190: Healer_32x56_95
+    21300192: Healer_32x56_96
+    21300194: Healer_32x56_97
+    21300196: Healer_32x56_98
+    21300198: Healer_32x56_99
+    21300200: Healer_32x56_100
+    21300202: Healer_32x56_101
+    21300204: Healer_32x56_102
+    21300206: Healer_32x56_103
+    21300208: Healer_32x56_104
+    21300210: Healer_32x56_105
+    21300212: Healer_32x56_106
+    21300214: Healer_32x56_107
+    21300216: Healer_32x56_108
+    21300218: Healer_32x56_109
+    21300220: Healer_32x56_110
+    21300222: Healer_32x56_111
+    21300224: Healer_32x56_112
+    21300226: Healer_32x56_113
+    21300228: Healer_32x56_114
+    21300230: Healer_32x56_115
+    21300232: Healer_32x56_116
+    21300234: Healer_32x56_117
+    21300236: Healer_32x56_118
+    21300238: Healer_32x56_119
+    21300240: Healer_32x56_120
+    21300242: Healer_32x56_121
+    21300244: Healer_32x56_122
+    21300246: Healer_32x56_123
+    21300248: Healer_32x56_124
+    21300250: Healer_32x56_125
+    21300252: Healer_32x56_126
+    21300254: Healer_32x56_127
+    21300256: Healer_32x56_128
+    21300258: Healer_32x56_129
+    21300260: Healer_32x56_130
+    21300262: Healer_32x56_131
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: red_healer_avatar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -2, y: 17}
+        - {x: -7, y: 17}
+        - {x: -11, y: 15}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -11, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -24}
+        - {x: 16, y: 4}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18}
+        - {x: -11, y: 18}
+        - {x: -16, y: 6}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 12, y: -28}
+        - {x: 15, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 12, y: 12}
+    - name: Healer_32x56_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -13, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -22}
+        - {x: 16, y: -5}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: -20}
+        - {x: -10, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 4}
+        - {x: 7, y: 14}
+    - name: Healer_32x56_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -26}
+        - {x: 16, y: -4}
+        - {x: 10, y: 14}
+    - name: Healer_32x56_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -11, y: 13}
+        - {x: -16, y: -2}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 13}
+        - {x: 9, y: 15}
+    - name: Healer_32x56_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -2, y: 17}
+        - {x: -7, y: 17}
+        - {x: -11, y: 15}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -11, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -24}
+        - {x: 16, y: 4}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18}
+        - {x: -11, y: 18}
+        - {x: -16, y: 6}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 12, y: -28}
+        - {x: 15, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 12, y: 12}
+    - name: Healer_32x56_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -13, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -22}
+        - {x: 16, y: -5}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: -20}
+        - {x: -10, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 4}
+        - {x: 7, y: 14}
+    - name: Healer_32x56_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -26}
+        - {x: 16, y: -4}
+        - {x: 10, y: 14}
+    - name: Healer_32x56_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -11, y: 13}
+        - {x: -16, y: -2}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 13}
+        - {x: 9, y: 15}
+    - name: Healer_32x56_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -2, y: 17}
+        - {x: -7, y: 17}
+        - {x: -11, y: 15}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -11, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -24}
+        - {x: 16, y: 4}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18}
+        - {x: -11, y: 18}
+        - {x: -16, y: 6}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 12, y: -28}
+        - {x: 15, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: -5}
+        - {x: 12, y: 12}
+    - name: Healer_32x56_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -15}
+        - {x: -13, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -22}
+        - {x: 16, y: -5}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -12, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: -20}
+        - {x: -10, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 4}
+        - {x: 7, y: 14}
+    - name: Healer_32x56_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 14, y: -28}
+        - {x: 16, y: -26}
+        - {x: 16, y: -4}
+        - {x: 10, y: 14}
+    - name: Healer_32x56_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -11, y: 13}
+        - {x: -16, y: -2}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 13}
+        - {x: 9, y: 15}
+    - name: Healer_32x56_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -17}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 14}
+    - name: Healer_32x56_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -10, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -13}
+        - {x: -15, y: -15}
+        - {x: -10, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 6}
+    - name: Healer_32x56_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -17}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 6}
+        - {x: 12, y: 13}
+    - name: Healer_32x56_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 3}
+        - {x: -16, y: -19}
+        - {x: -13, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: -1}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -17}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 14}
+    - name: Healer_32x56_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -10, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -13}
+        - {x: -15, y: -15}
+        - {x: -10, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 6}
+    - name: Healer_32x56_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -17}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 6}
+        - {x: 12, y: 13}
+    - name: Healer_32x56_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 3}
+        - {x: -16, y: -19}
+        - {x: -13, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: -1}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -16, y: 4}
+        - {x: -16, y: -17}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 14}
+    - name: Healer_32x56_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -10, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -20}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -13}
+        - {x: -15, y: -15}
+        - {x: -10, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+        - {x: -6, y: 16}
+        - {x: -16, y: 6}
+    - name: Healer_32x56_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -16, y: 8}
+        - {x: -16, y: -17}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 6}
+        - {x: 12, y: 13}
+    - name: Healer_32x56_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -16, y: 3}
+        - {x: -16, y: -19}
+        - {x: -13, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: -1}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -12}
+        - {x: -15, y: -13}
+        - {x: -13, y: -23}
+        - {x: -6, y: -28}
+        - {x: 11, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 5}
+        - {x: 14, y: 10}
+    - name: Healer_32x56_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -16, y: 10}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18}
+        - {x: -10, y: 18}
+        - {x: -16, y: 9}
+        - {x: -16, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 0}
+        - {x: 13, y: 12}
+    - name: Healer_32x56_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -21}
+        - {x: -8, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 17}
+        - {x: -11, y: 17}
+        - {x: -16, y: 8}
+        - {x: -16, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -8, y: 18}
+        - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -21}
+        - {x: -15, y: -24}
+        - {x: -8, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -19}
+        - {x: 16, y: -2}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -12}
+        - {x: -15, y: -13}
+        - {x: -13, y: -23}
+        - {x: -6, y: -28}
+        - {x: 11, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 5}
+        - {x: 14, y: 10}
+    - name: Healer_32x56_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -16, y: 10}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18}
+        - {x: -10, y: 18}
+        - {x: -16, y: 9}
+        - {x: -16, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 0}
+        - {x: 13, y: 12}
+    - name: Healer_32x56_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -21}
+        - {x: -8, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 17}
+        - {x: -11, y: 17}
+        - {x: -16, y: 8}
+        - {x: -16, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -8, y: 18}
+        - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -21}
+        - {x: -15, y: -24}
+        - {x: -8, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -19}
+        - {x: 16, y: -2}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -12}
+        - {x: -15, y: -13}
+        - {x: -13, y: -23}
+        - {x: -6, y: -28}
+        - {x: 11, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 5}
+        - {x: 14, y: 10}
+    - name: Healer_32x56_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -16, y: 10}
+        - {x: -16, y: -18}
+        - {x: -11, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18}
+        - {x: -10, y: 18}
+        - {x: -16, y: 9}
+        - {x: -16, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 16, y: -20}
+        - {x: 16, y: 0}
+        - {x: 13, y: 12}
+    - name: Healer_32x56_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -21}
+        - {x: -8, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 12, y: 10}
+    - name: Healer_32x56_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 17}
+        - {x: -11, y: 17}
+        - {x: -16, y: 8}
+        - {x: -16, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -8, y: 18}
+        - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -21}
+        - {x: -15, y: -24}
+        - {x: -8, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -19}
+        - {x: 16, y: -2}
+        - {x: 12, y: 11}
+    - name: Healer_32x56_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -13, y: 9}
+        - {x: -16, y: 1}
+        - {x: -16, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -4, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -25}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 8}
+        - {x: 15, y: 15}
+    - name: Healer_32x56_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17}
+        - {x: -2, y: 17}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -8, y: -27}
+        - {x: 11, y: -27}
+        - {x: 13, y: -26}
+        - {x: 15, y: -24}
+        - {x: 15, y: 0}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -14, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -20}
+        - {x: -13, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -27}
+        - {x: 16, y: 7}
+        - {x: 14, y: 15}
+    - name: Healer_32x56_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 10}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: 4, y: 17}
+        - {x: -1, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -14}
+        - {x: -12, y: -27}
+        - {x: 11, y: -27}
+        - {x: 15, y: -23}
+        - {x: 15, y: 9}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -13, y: 9}
+        - {x: -16, y: 1}
+        - {x: -16, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -4, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -25}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 8}
+        - {x: 15, y: 15}
+    - name: Healer_32x56_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17}
+        - {x: -2, y: 17}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -8, y: -27}
+        - {x: 11, y: -27}
+        - {x: 13, y: -26}
+        - {x: 15, y: -24}
+        - {x: 15, y: 0}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -14, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -20}
+        - {x: -13, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -27}
+        - {x: 16, y: 7}
+        - {x: 14, y: 15}
+    - name: Healer_32x56_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 10}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: 4, y: 17}
+        - {x: -1, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -14}
+        - {x: -12, y: -27}
+        - {x: 11, y: -27}
+        - {x: 15, y: -23}
+        - {x: 15, y: 9}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -13, y: 9}
+        - {x: -16, y: 1}
+        - {x: -16, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+    - name: Healer_32x56_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -4, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -25}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 8}
+        - {x: 15, y: 15}
+    - name: Healer_32x56_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17}
+        - {x: -2, y: 17}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -8, y: -27}
+        - {x: 11, y: -27}
+        - {x: 13, y: -26}
+        - {x: 15, y: -24}
+        - {x: 15, y: 0}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -14, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -20}
+        - {x: -13, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -27}
+        - {x: 16, y: 7}
+        - {x: 14, y: 15}
+    - name: Healer_32x56_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -28}
+        - {x: 13, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: 10}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: 4, y: 17}
+        - {x: -1, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -14}
+        - {x: -12, y: -27}
+        - {x: 11, y: -27}
+        - {x: 15, y: -23}
+        - {x: 15, y: 9}
+        - {x: 14, y: 16}
+    - name: Healer_32x56_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -27}
+        - {x: 13, y: 3}
+        - {x: 8, y: 14}
+    - name: Healer_32x56_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 12, y: -27}
+        - {x: 12, y: 12}
+        - {x: 1, y: 16}
+    - name: Healer_32x56_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -16, y: 17}
+        - {x: -16, y: -24}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 10}
+        - {x: -16, y: -17}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -10, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -25}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -8, y: 18}
+        - {x: -16, y: 7}
+        - {x: -16, y: -25}
+        - {x: -5, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 12}
+        - {x: 7, y: 16}
+    - name: Healer_32x56_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -27}
+        - {x: 13, y: 3}
+        - {x: 8, y: 14}
+    - name: Healer_32x56_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 12, y: -27}
+        - {x: 12, y: 12}
+        - {x: 1, y: 16}
+    - name: Healer_32x56_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -16, y: 17}
+        - {x: -16, y: -24}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 10}
+        - {x: -16, y: -17}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -10, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -25}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -8, y: 18}
+        - {x: -16, y: 7}
+        - {x: -16, y: -25}
+        - {x: -5, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 12}
+        - {x: 7, y: 16}
+    - name: Healer_32x56_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -16, y: 1}
+        - {x: -16, y: -24}
+        - {x: -7, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -27}
+        - {x: 13, y: 3}
+        - {x: 8, y: 14}
+    - name: Healer_32x56_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -19}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 12, y: -27}
+        - {x: 12, y: 12}
+        - {x: 1, y: 16}
+    - name: Healer_32x56_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -16, y: 17}
+        - {x: -16, y: -24}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_87
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 10}
+        - {x: -16, y: -17}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -10, y: -28}
+        - {x: 11, y: -28}
+        - {x: 14, y: -25}
+        - {x: 14, y: 28}
+    - name: Healer_32x56_89
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -8, y: 18}
+        - {x: -16, y: 7}
+        - {x: -16, y: -25}
+        - {x: -5, y: -28}
+        - {x: 12, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 12}
+        - {x: 7, y: 16}
+    - name: Healer_32x56_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -16, y: 2}
+        - {x: -16, y: -7}
+        - {x: -13, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -26}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 12, y: 14}
+    - name: Healer_32x56_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -13}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 22}
+        - {x: 2, y: 28}
+    - name: Healer_32x56_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+        - {x: -1, y: 28}
+    - name: Healer_32x56_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -24}
+        - {x: -9, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 17}
+        - {x: 4, y: 28}
+    - name: Healer_32x56_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -23}
+        - {x: -13, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -16, y: 2}
+        - {x: -16, y: -7}
+        - {x: -13, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -26}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 12, y: 14}
+    - name: Healer_32x56_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -13}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 22}
+        - {x: 2, y: 28}
+    - name: Healer_32x56_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+        - {x: -1, y: 28}
+    - name: Healer_32x56_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -24}
+        - {x: -9, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 17}
+        - {x: 4, y: 28}
+    - name: Healer_32x56_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -23}
+        - {x: -13, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -16, y: 2}
+        - {x: -16, y: -7}
+        - {x: -13, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 3}
+        - {x: 15, y: 13}
+    - name: Healer_32x56_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -12, y: -26}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 4}
+        - {x: 12, y: 14}
+    - name: Healer_32x56_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -13}
+        - {x: -10, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 22}
+        - {x: 2, y: 28}
+    - name: Healer_32x56_105
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+        - {x: -1, y: 28}
+    - name: Healer_32x56_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -12, y: -24}
+        - {x: -9, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -22}
+        - {x: 16, y: 17}
+        - {x: 4, y: 28}
+    - name: Healer_32x56_107
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -23}
+        - {x: -13, y: -27}
+        - {x: 10, y: -27}
+        - {x: 16, y: -25}
+        - {x: 16, y: 17}
+    - name: Healer_32x56_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23}
+        - {x: 6, y: 24}
+        - {x: -5, y: 24}
+        - {x: -16, y: 15}
+        - {x: -16, y: -24}
+        - {x: -13, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -23}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+      - - {x: -10, y: 17}
+        - {x: -7, y: 18}
+        - {x: -7, y: 21}
+        - {x: -10, y: 22}
+        - {x: -12, y: 20}
+    - name: Healer_32x56_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -7, y: -26}
+        - {x: 11, y: -26}
+        - {x: 16, y: -13}
+        - {x: 16, y: 19}
+        - {x: 5, y: 25}
+    - name: Healer_32x56_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -16, y: 13}
+        - {x: -16, y: -7}
+        - {x: -9, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -17}
+        - {x: 16, y: 21}
+    - name: Healer_32x56_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -15, y: 5}
+        - {x: -15, y: -18}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 16}
+        - {x: 12, y: 17}
+    - name: Healer_32x56_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -15, y: -9}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -12, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: -11}
+        - {x: 11, y: 3}
+      - - {x: -7, y: -4}
+        - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: -7, y: 1}
+        - {x: -9, y: -1}
+      - - {x: 7, y: 2}
+        - {x: 9, y: 0}
+        - {x: 12, y: 1}
+        - {x: 12, y: 4}
+        - {x: 10, y: 6}
+        - {x: 7, y: 5}
+    - name: Healer_32x56_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -4}
+        - {x: -16, y: -18}
+        - {x: -16, y: -24}
+        - {x: -10, y: -28}
+        - {x: 15, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: -11}
+        - {x: 13, y: -4}
+    - name: Healer_32x56_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23}
+        - {x: 6, y: 24}
+        - {x: -5, y: 24}
+        - {x: -16, y: 15}
+        - {x: -16, y: -24}
+        - {x: -13, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -23}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+      - - {x: -10, y: 17}
+        - {x: -7, y: 18}
+        - {x: -7, y: 21}
+        - {x: -10, y: 22}
+        - {x: -12, y: 20}
+    - name: Healer_32x56_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -7, y: -26}
+        - {x: 11, y: -26}
+        - {x: 16, y: -13}
+        - {x: 16, y: 19}
+        - {x: 5, y: 25}
+    - name: Healer_32x56_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -16, y: 13}
+        - {x: -16, y: -7}
+        - {x: -9, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -17}
+        - {x: 16, y: 21}
+    - name: Healer_32x56_117
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -15, y: 5}
+        - {x: -15, y: -18}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 16}
+        - {x: 12, y: 17}
+    - name: Healer_32x56_118
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -15, y: -9}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -12, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: -11}
+        - {x: 11, y: 3}
+      - - {x: -7, y: -4}
+        - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: -7, y: 1}
+        - {x: -9, y: -1}
+      - - {x: 7, y: 2}
+        - {x: 9, y: 0}
+        - {x: 12, y: 1}
+        - {x: 12, y: 4}
+        - {x: 10, y: 6}
+        - {x: 7, y: 5}
+    - name: Healer_32x56_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -4}
+        - {x: -16, y: -18}
+        - {x: -16, y: -24}
+        - {x: -10, y: -28}
+        - {x: 15, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: -11}
+        - {x: 13, y: -4}
+    - name: Healer_32x56_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23}
+        - {x: 6, y: 24}
+        - {x: -5, y: 24}
+        - {x: -16, y: 15}
+        - {x: -16, y: -24}
+        - {x: -13, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -23}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+      - - {x: -10, y: 17}
+        - {x: -7, y: 18}
+        - {x: -7, y: 21}
+        - {x: -10, y: 22}
+        - {x: -12, y: 20}
+    - name: Healer_32x56_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -7, y: -26}
+        - {x: 11, y: -26}
+        - {x: 16, y: -13}
+        - {x: 16, y: 19}
+        - {x: 5, y: 25}
+    - name: Healer_32x56_122
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -16, y: 13}
+        - {x: -16, y: -7}
+        - {x: -9, y: -26}
+        - {x: 8, y: -26}
+        - {x: 16, y: -17}
+        - {x: 16, y: 21}
+    - name: Healer_32x56_123
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -15, y: 5}
+        - {x: -15, y: -18}
+        - {x: -9, y: -27}
+        - {x: 14, y: -27}
+        - {x: 14, y: 16}
+        - {x: 12, y: 17}
+    - name: Healer_32x56_124
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -15, y: -9}
+        - {x: -16, y: -13}
+        - {x: -16, y: -26}
+        - {x: -12, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: -11}
+        - {x: 11, y: 3}
+      - - {x: -7, y: -4}
+        - {x: -4, y: -3}
+        - {x: -4, y: 0}
+        - {x: -7, y: 1}
+        - {x: -9, y: -1}
+      - - {x: 7, y: 2}
+        - {x: 9, y: 0}
+        - {x: 12, y: 1}
+        - {x: 12, y: 4}
+        - {x: 10, y: 6}
+        - {x: 7, y: 5}
+    - name: Healer_32x56_125
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -4}
+        - {x: -16, y: -18}
+        - {x: -16, y: -24}
+        - {x: -10, y: -28}
+        - {x: 15, y: -28}
+        - {x: 16, y: -25}
+        - {x: 16, y: -11}
+        - {x: 13, y: -4}
+    - name: Healer_32x56_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -9, y: 14}
+        - {x: -11, y: 12}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: -10, y: -27}
+        - {x: 13, y: -27}
+        - {x: 16, y: -26}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+    - name: Healer_32x56_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 13, y: 14}
+        - {x: -3, y: 14}
+        - {x: -14, y: 6}
+    - name: Healer_32x56_128
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -9, y: 14}
+        - {x: -11, y: 12}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: -10, y: -27}
+        - {x: 13, y: -27}
+        - {x: 16, y: -26}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+    - name: Healer_32x56_129
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 13, y: 14}
+        - {x: -3, y: 14}
+        - {x: -14, y: 6}
+    - name: Healer_32x56_130
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: -9, y: 14}
+        - {x: -11, y: 12}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: -10, y: -27}
+        - {x: 13, y: -27}
+        - {x: 16, y: -26}
+        - {x: 16, y: 9}
+        - {x: 13, y: 13}
+    - name: Healer_32x56_131
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -16}
+        - {x: -11, y: -27}
+        - {x: 16, y: -27}
+        - {x: 16, y: 1}
+        - {x: 13, y: 14}
+        - {x: -3, y: 14}
+        - {x: -14, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

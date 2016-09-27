@@ -1,0 +1,2073 @@
+fileFormatVersion: 2
+guid: a060690595ae3384fb01cbb2abbab4ce
+timeCreated: 1471235500
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Magician_32x56_0
+    21300002: Magician_32x56_1
+    21300004: Magician_32x56_2
+    21300006: Magician_32x56_3
+    21300008: Magician_32x56_4
+    21300010: Magician_32x56_5
+    21300012: Magician_32x56_6
+    21300014: Magician_32x56_7
+    21300016: Magician_32x56_8
+    21300018: Magician_32x56_9
+    21300020: Magician_32x56_10
+    21300022: Magician_32x56_11
+    21300024: Magician_32x56_12
+    21300026: Magician_32x56_13
+    21300028: Magician_32x56_14
+    21300030: Magician_32x56_15
+    21300032: Magician_32x56_16
+    21300034: Magician_32x56_17
+    21300036: Magician_32x56_18
+    21300038: Magician_32x56_19
+    21300040: Magician_32x56_20
+    21300042: Magician_32x56_21
+    21300044: Magician_32x56_22
+    21300046: Magician_32x56_23
+    21300048: Magician_32x56_24
+    21300050: Magician_32x56_25
+    21300052: Magician_32x56_26
+    21300054: Magician_32x56_27
+    21300056: Magician_32x56_28
+    21300058: Magician_32x56_29
+    21300060: Magician_32x56_30
+    21300062: Magician_32x56_31
+    21300064: Magician_32x56_32
+    21300066: Magician_32x56_33
+    21300068: Magician_32x56_34
+    21300070: Magician_32x56_35
+    21300072: Magician_32x56_36
+    21300074: Magician_32x56_37
+    21300076: Magician_32x56_38
+    21300078: Magician_32x56_39
+    21300080: Magician_32x56_40
+    21300082: Magician_32x56_41
+    21300084: Magician_32x56_42
+    21300086: Magician_32x56_43
+    21300088: Magician_32x56_44
+    21300090: Magician_32x56_45
+    21300092: Magician_32x56_46
+    21300094: Magician_32x56_47
+    21300096: Magician_32x56_48
+    21300098: Magician_32x56_49
+    21300100: Magician_32x56_50
+    21300102: Magician_32x56_51
+    21300104: Magician_32x56_52
+    21300106: Magician_32x56_53
+    21300108: red_magician_avatar
+    21300110: Magician_32x56_55
+    21300112: Magician_32x56_56
+    21300114: Magician_32x56_57
+    21300116: Magician_32x56_58
+    21300118: Magician_32x56_59
+    21300120: Magician_32x56_60
+    21300122: Magician_32x56_61
+    21300124: Magician_32x56_62
+    21300126: Magician_32x56_63
+    21300128: Magician_32x56_64
+    21300130: Magician_32x56_65
+    21300132: Magician_32x56_66
+    21300134: Magician_32x56_67
+    21300136: Magician_32x56_68
+    21300138: Magician_32x56_69
+    21300140: Magician_32x56_70
+    21300142: Magician_32x56_71
+    21300144: Magician_32x56_72
+    21300146: Magician_32x56_73
+    21300148: Magician_32x56_74
+    21300150: Magician_32x56_75
+    21300152: Magician_32x56_76
+    21300154: Magician_32x56_77
+    21300156: Magician_32x56_78
+    21300158: Magician_32x56_79
+    21300160: Magician_32x56_80
+    21300162: Magician_32x56_81
+    21300164: Magician_32x56_82
+    21300166: Magician_32x56_83
+    21300168: Magician_32x56_84
+    21300170: Magician_32x56_85
+    21300172: Magician_32x56_86
+    21300174: Magician_32x56_87
+    21300176: Magician_32x56_88
+    21300178: Magician_32x56_89
+    21300180: Magician_32x56_90
+    21300182: Magician_32x56_91
+    21300184: Magician_32x56_92
+    21300186: Magician_32x56_93
+    21300188: Magician_32x56_94
+    21300190: Magician_32x56_95
+    21300192: Magician_32x56_96
+    21300194: Magician_32x56_97
+    21300196: Magician_32x56_98
+    21300198: Magician_32x56_99
+    21300200: Magician_32x56_100
+    21300202: Magician_32x56_101
+    21300204: Magician_32x56_102
+    21300206: Magician_32x56_103
+    21300208: Magician_32x56_104
+    21300210: Magician_32x56_105
+    21300212: Magician_32x56_106
+    21300214: Magician_32x56_107
+    21300216: Magician_32x56_108
+    21300218: Magician_32x56_109
+    21300220: Magician_32x56_110
+    21300222: Magician_32x56_111
+    21300224: Magician_32x56_112
+    21300226: Magician_32x56_113
+    21300228: Magician_32x56_114
+    21300230: Magician_32x56_115
+    21300232: Magician_32x56_116
+    21300234: Magician_32x56_117
+    21300236: Magician_32x56_118
+    21300238: Magician_32x56_119
+    21300240: Magician_32x56_120
+    21300242: Magician_32x56_121
+    21300244: Magician_32x56_122
+    21300246: Magician_32x56_123
+    21300248: Magician_32x56_124
+    21300250: Magician_32x56_125
+    21300252: Magician_32x56_126
+    21300254: Magician_32x56_127
+    21300256: Magician_32x56_128
+    21300258: Magician_32x56_129
+    21300260: Magician_32x56_130
+    21300262: Magician_32x56_131
+    21300264: Magician_32x56_132
+    21300266: Magician_32x56_133
+    21300268: Magician_32x56_134
+    21300270: Magician_32x56_135
+    21300272: Magician_32x56_136
+    21300274: Magician_32x56_137
+    21300276: Magician_32x56_138
+    21300278: Magician_32x56_139
+    21300280: Magician_32x56_140
+    21300282: Magician_32x56_141
+    21300284: Magician_32x56_142
+    21300286: Magician_32x56_143
+    21300288: Magician_32x56_144
+    21300290: Magician_32x56_145
+    21300292: Magician_32x56_146
+    21300294: Magician_32x56_147
+    21300296: Magician_32x56_148
+    21300298: Magician_32x56_149
+    21300300: Magician_32x56_150
+    21300302: Magician_32x56_151
+    21300304: Magician_32x56_152
+    21300306: Magician_32x56_153
+    21300308: Magician_32x56_154
+    21300310: Magician_32x56_155
+    21300312: Magician_32x56_156
+    21300314: Magician_32x56_157
+    21300316: Magician_32x56_158
+    21300318: Magician_32x56_159
+    21300320: Magician_32x56_160
+    21300322: Magician_32x56_161
+    21300324: Magician_32x56_162
+    21300326: Magician_32x56_163
+    21300328: Magician_32x56_164
+    21300330: Magician_32x56_165
+    21300332: Magician_32x56_166
+    21300334: Magician_32x56_167
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Magician_32x56_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: red_magician_avatar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_87
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_89
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_105
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_107
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_117
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_118
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_122
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_123
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_124
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_125
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_129
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_133
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_135
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_136
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_138
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_139
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_141
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_142
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_143
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_152
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_155
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_157
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_160
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_161
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_163
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_164
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_165
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_166
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Magician_32x56_167
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
