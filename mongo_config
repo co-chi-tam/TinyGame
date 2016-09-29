@@ -1,0 +1,9 @@
+mongodump --host $OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT --username $OPENSHIFT_MONGODB_DB_USERNAME --password $OPENSHIFT_MONGODB_DB_PASSWORD  
+
+zip -r dump.zip dump
+
+rm -r dump 
+
+rm -r dump.zip
+
+mongorestore --host 0000000000000000000000000000000000000-tinygame.rhcloud.com --port 0000 --username admin --password P@ssw0rd dump
