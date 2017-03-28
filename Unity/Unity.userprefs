@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TinyGame\CTest9UserManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TinyGame\Util\Util.cs">
     <Files>
-      <File FileName="Assets\Scripts\TinyGame\CTest9UserManager.cs" Line="198" Column="1" />
-      <File FileName="Assets\Scripts\TinyGame\CTest9DataParser.cs" Line="125" Column="4" />
-      <File FileName="Assets\Scripts\TinyGame\UI\MessageBox\CMessageItem.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TinyGame\UI\MessageBox\UIMessageBox.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TinyGame\UI\MessageBox\UIMessageCanvas.cs" Line="87" Column="19" />
-      <File FileName="Assets\Scripts\TinyGame\UI\User\UIUserLogin.cs" Line="58" Column="25" />
+      <File FileName="Assets\Scripts\TinyGame\Util\Util.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Common\CMonoSingleton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Common\CBaseMonobehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Common\ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Common\CBaseController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TinyGame\CTest9UserManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
